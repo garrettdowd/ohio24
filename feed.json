@@ -5,23 +5,114 @@
     "home_page_url": "https://info.ohio24.org",
     "feed_url": "https://info.ohio24.org/feed.json",
     "user_comment": "",
+    "icon": "https://info.ohio24.org/media/website/logo-l.png",
     "author": {
         "name": "Ohio24"
     },
     "items": [
         {
+            "id": "https://info.ohio24.org/the-application.html",
+            "url": "https://info.ohio24.org/the-application.html",
+            "title": "The Application",
+            "author": {
+                "name": "Ohio24"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T19:35:16-04:00",
+            "date_modified": "2022-10-27T19:35:16-04:00"
+        },
+        {
+            "id": "https://info.ohio24.org/training.html",
+            "url": "https://info.ohio24.org/training.html",
+            "title": "Training",
+            "author": {
+                "name": "Ohio24"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T19:34:47-04:00",
+            "date_modified": "2022-10-27T19:34:47-04:00"
+        },
+        {
+            "id": "https://info.ohio24.org/nutrition.html",
+            "url": "https://info.ohio24.org/nutrition.html",
+            "title": "Nutrition",
+            "author": {
+                "name": "Ohio24"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T19:34:43-04:00",
+            "date_modified": "2022-10-27T19:34:43-04:00"
+        },
+        {
+            "id": "https://info.ohio24.org/equipment.html",
+            "url": "https://info.ohio24.org/equipment.html",
+            "title": "Equipment",
+            "author": {
+                "name": "Ohio24"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T19:34:30-04:00",
+            "date_modified": "2022-10-27T19:34:30-04:00"
+        },
+        {
+            "id": "https://info.ohio24.org/faq.html",
+            "url": "https://info.ohio24.org/faq.html",
+            "title": "FAQ",
+            "summary": "Date Cost Support Preparation Fitness Required Swag Safety",
+            "content_html": "<p>Date</p>\n<p>Cost</p>\n<p>Support</p>\n<p>Preparation</p>\n<p>Fitness Required</p>\n<p>Swag</p>\n<p>Safety</p>\n<p> </p>",
+            "author": {
+                "name": "Ohio24"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T19:33:50-04:00",
+            "date_modified": "2022-10-27T19:33:50-04:00"
+        },
+        {
+            "id": "https://info.ohio24.org/about.html",
+            "url": "https://info.ohio24.org/about.html",
+            "title": "About",
+            "summary": "Philosophy 24 Hours Solo or Group",
+            "content_html": "<p>Philosophy</p>\n<p>24 Hours</p>\n<p>Solo or Group</p>\n<p> </p>",
+            "author": {
+                "name": "Ohio24"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T19:31:34-04:00",
+            "date_modified": "2022-10-27T19:31:34-04:00"
+        },
+        {
+            "id": "https://info.ohio24.org/timeline.html",
+            "url": "https://info.ohio24.org/timeline.html",
+            "title": "Timeline",
+            "summary": "Average Speed Night Riding Trails, Roads, Limestone",
+            "content_html": "<p>Average Speed</p>\n<p>Night Riding</p>\n<p>Trails, Roads, Limestone</p>",
+            "author": {
+                "name": "Ohio24"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T19:25:11-04:00",
+            "date_modified": "2022-10-27T19:25:11-04:00"
+        },
+        {
             "id": "https://info.ohio24.org/ohio24-route.html",
             "url": "https://info.ohio24.org/ohio24-route.html",
-            "title": "Ohio24 Route",
-            "summary": "Highlights 315 miles, 500+ kilometersflat, less than 6000ft total elevation gain 90% trail",
-            "content_html": "\n    <h2 id=\"highlights\">\n      Highlights\n    </h2>\n\n  <ul>\n    <li>315 miles, 500+ kilometers</li><li>flat, less than 6000ft total elevation gain<br></li><li>90% trail</li>\n  </ul>",
+            "title": "Route",
+            "summary": "Highlights 311 miles, 500 kilometersflat, less than 6000ft total elevation gain 90% trail (80% paved, 10% crushed limestone)",
+            "content_html": "\n    <h2 id=\"highlights\">\n      Highlights\n    </h2>\n\n  <ul>\n    <li>311 miles, 500 kilometers</li><li>flat, less than 6000ft total elevation gain<br></li><li>90% trail (80% paved, 10% crushed limestone)</li>\n  </ul>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://ridewithgps.com/embeds?type=route&id=40075050&title=Ohio24&sampleGraph=true\" style=\"width: 1px; min-width: 100%; height: 700px; border: none;\" scrolling=\"no\"></iframe></div>\n</div>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Ohio24"
             },
             "tags": [
             ],
             "date_published": "2022-10-27T18:48:26-04:00",
-            "date_modified": "2022-10-27T18:48:26-04:00"
+            "date_modified": "2022-10-28T11:12:52-04:00"
         }
     ]
 }
