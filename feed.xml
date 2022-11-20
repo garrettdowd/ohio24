@@ -3,7 +3,7 @@
     <title>Ohio24</title>
     <link href="https://info.ohio24.org/feed.xml" rel="self" />
     <link href="https://info.ohio24.org" />
-    <updated>2022-11-20T15:40:49-05:00</updated>
+    <updated>2022-11-20T15:56:31-05:00</updated>
     <author>
         <name>Ohio24</name>
     </author>
@@ -41,14 +41,16 @@
         <link href="https://info.ohio24.org/finishers.html"/>
         <id>https://info.ohio24.org/finishers.html</id>
 
-        <updated>2022-11-20T15:24:56-05:00</updated>
+        <updated>2022-11-20T15:56:31-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" alt="" />
                     Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing The Challenge. Are you a Finisher? Submit your details to get added to this page. Name Date Activity Link Equipment
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" alt="" />
                 <p>Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing <a href="https://info.ohio24.org/challenge.html">The Challenge</a>.</p>
 <p>Are you a Finisher? <span style="color: #e67e23;">Submit your details</span> to get added to this page.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -77,8 +79,9 @@
         </author>
         <link href="https://info.ohio24.org/faq.html"/>
         <id>https://info.ohio24.org/faq.html</id>
+            <category term="about"/>
 
-        <updated>2022-11-20T15:40:49-05:00</updated>
+        <updated>2022-11-20T15:49:09-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/4/pexels-pixabay-207779.jpg" alt="" />
@@ -133,8 +136,9 @@
         </author>
         <link href="https://info.ohio24.org/challenge.html"/>
         <id>https://info.ohio24.org/challenge.html</id>
+            <category term="about"/>
 
-        <updated>2022-11-20T15:39:47-05:00</updated>
+        <updated>2022-11-20T15:49:20-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/3/IMG_2188.jpeg" alt="" />
@@ -172,8 +176,9 @@
         </author>
         <link href="https://info.ohio24.org/ohio24-route.html"/>
         <id>https://info.ohio24.org/ohio24-route.html</id>
+            <category term="about"/>
 
-        <updated>2022-11-20T15:39:32-05:00</updated>
+        <updated>2022-11-20T15:49:30-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/1/0688y000002TfhqAAC.jpg" alt="" />

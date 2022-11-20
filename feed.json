@@ -31,13 +31,14 @@
             "title": "Finishers",
             "summary": "Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing The Challenge. Are you a Finisher? Submit your details to get added to this page. Name Date Activity Link Equipment",
             "content_html": "<p>Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing <a href=\"https://info.ohio24.org/challenge.html\">The Challenge</a>.</p>\n<p>Are you a Finisher? <span style=\"color: #e67e23;\">Submit your details</span> to get added to this page.</p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 33.3809%;\">Name</td>\n<td style=\"width: 17.2611%;\">Date</td>\n<td style=\"width: 24.4057%;\">Activity Link</td>\n<td style=\"width: 24.9523%;\">Equipment</td>\n</tr>\n<tr>\n<td style=\"width: 33.3809%;\"> </td>\n<td style=\"width: 17.2611%;\"> </td>\n<td style=\"width: 24.4057%;\"> </td>\n<td style=\"width: 24.9523%;\"> </td>\n</tr>\n</tbody>\n</table>",
+            "image": "https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg",
             "author": {
                 "name": "Ohio24"
             },
             "tags": [
             ],
             "date_published": "2022-11-18T10:15:32-05:00",
-            "date_modified": "2022-11-20T15:24:56-05:00"
+            "date_modified": "2022-11-20T15:56:31-05:00"
         },
         {
             "id": "https://info.ohio24.org/faq.html",
@@ -50,9 +51,10 @@
                 "name": "Ohio24"
             },
             "tags": [
+                   "about"
             ],
             "date_published": "2022-10-27T19:33:50-04:00",
-            "date_modified": "2022-11-20T15:40:49-05:00"
+            "date_modified": "2022-11-20T15:49:09-05:00"
         },
         {
             "id": "https://info.ohio24.org/challenge.html",
@@ -65,9 +67,10 @@
                 "name": "Ohio24"
             },
             "tags": [
+                   "about"
             ],
             "date_published": "2022-10-27T19:31:34-04:00",
-            "date_modified": "2022-11-20T15:39:47-05:00"
+            "date_modified": "2022-11-20T15:49:20-05:00"
         },
         {
             "id": "https://info.ohio24.org/ohio24-route.html",
@@ -80,9 +83,10 @@
                 "name": "Ohio24"
             },
             "tags": [
+                   "about"
             ],
             "date_published": "2022-10-27T18:48:26-04:00",
-            "date_modified": "2022-11-20T15:39:32-05:00"
+            "date_modified": "2022-11-20T15:49:30-05:00"
         }
     ]
 }
