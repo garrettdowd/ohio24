@@ -11,108 +11,78 @@
     },
     "items": [
         {
-            "id": "https://info.ohio24.org/the-application.html",
-            "url": "https://info.ohio24.org/the-application.html",
-            "title": "The Application",
+            "id": "https://info.ohio24.org/solstice-event.html",
+            "url": "https://info.ohio24.org/solstice-event.html",
+            "title": "Solstice Event",
+            "summary": "Planing for the 2023 solstice event is underway. Are you interested in tackling this challenge with others on the longest day of the year? Let us know by sending a quick message to hi@ohio24.org",
+            "content_html": "<p>Planing for the 2023 solstice event is underway.</p>\n<p>Are you interested in tackling this challenge with others on the longest day of the year?</p>\n<p>Let us know by sending a quick message to hi@ohio24.org</p>",
+            "image": "https://info.ohio24.org/media/posts/13/pexels-roman-pohorecki-287398.jpg",
             "author": {
                 "name": "Ohio24"
             },
             "tags": [
             ],
-            "date_published": "2022-10-27T19:35:16-04:00",
-            "date_modified": "2022-10-27T19:35:16-04:00"
+            "date_published": "2022-11-20T14:17:59-05:00",
+            "date_modified": "2022-11-20T15:28:52-05:00"
         },
         {
-            "id": "https://info.ohio24.org/training.html",
-            "url": "https://info.ohio24.org/training.html",
-            "title": "Training",
+            "id": "https://info.ohio24.org/finishers.html",
+            "url": "https://info.ohio24.org/finishers.html",
+            "title": "Finishers",
+            "summary": "Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing The Challenge. Are you a Finisher? Submit your details to get added to this page. Name Date Activity Link Equipment",
+            "content_html": "<p>Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing <a href=\"https://info.ohio24.org/challenge.html\">The Challenge</a>.</p>\n<p>Are you a Finisher? <span style=\"color: #e67e23;\">Submit your details</span> to get added to this page.</p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 33.3809%;\">Name</td>\n<td style=\"width: 17.2611%;\">Date</td>\n<td style=\"width: 24.4057%;\">Activity Link</td>\n<td style=\"width: 24.9523%;\">Equipment</td>\n</tr>\n<tr>\n<td style=\"width: 33.3809%;\"> </td>\n<td style=\"width: 17.2611%;\"> </td>\n<td style=\"width: 24.4057%;\"> </td>\n<td style=\"width: 24.9523%;\"> </td>\n</tr>\n</tbody>\n</table>",
             "author": {
                 "name": "Ohio24"
             },
             "tags": [
             ],
-            "date_published": "2022-10-27T19:34:47-04:00",
-            "date_modified": "2022-10-27T19:34:47-04:00"
-        },
-        {
-            "id": "https://info.ohio24.org/nutrition.html",
-            "url": "https://info.ohio24.org/nutrition.html",
-            "title": "Nutrition",
-            "author": {
-                "name": "Ohio24"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-10-27T19:34:43-04:00",
-            "date_modified": "2022-10-27T19:34:43-04:00"
-        },
-        {
-            "id": "https://info.ohio24.org/equipment.html",
-            "url": "https://info.ohio24.org/equipment.html",
-            "title": "Equipment",
-            "author": {
-                "name": "Ohio24"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-10-27T19:34:30-04:00",
-            "date_modified": "2022-10-27T19:34:30-04:00"
+            "date_published": "2022-11-18T10:15:32-05:00",
+            "date_modified": "2022-11-20T15:24:56-05:00"
         },
         {
             "id": "https://info.ohio24.org/faq.html",
             "url": "https://info.ohio24.org/faq.html",
             "title": "FAQ",
-            "summary": "Date Cost Support Preparation Fitness Required Swag Safety",
-            "content_html": "<p>Date</p>\n<p>Cost</p>\n<p>Support</p>\n<p>Preparation</p>\n<p>Fitness Required</p>\n<p>Swag</p>\n<p>Safety</p>\n<p> </p>",
+            "summary": "Tricycles? Handcycles? Recumbents? Any small vehicle that is suitable for use on a multi-use trail and solely human powered is permitted. Recumbents with fairings are generally not suitable for use on a multi-use trail. No motor vehicles are permitted. This is a self-supported challenge. You&hellip;",
+            "content_html": "<div class=\"post__toc\">\n<h3>Table of Contents</h3>\n<ul>\n<li><a href=\"#mcetoc_1gibcb8ct29g\">Tricycles? Handcycles? Recumbents?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29h\">eBikes?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29i\">Safety and Support</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29j\">Is this a race?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29k\">Is this a Flèche? Brevet? Permanent?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29l\">I have done XX ride, do you think I can do this one?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29m\">Preparation</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29n\">Solo or Group</a></li>\n</ul>\n</div>\n<h3 id=\"mcetoc_1gibcb8ct29g\">Tricycles? Handcycles? Recumbents?</h3>\n<p>Any small vehicle that is suitable for use on a multi-use trail and solely human powered is permitted. Recumbents with fairings are generally not suitable for use on a multi-use trail.</p>\n<h3 id=\"mcetoc_1gibcb8ct29h\">eBikes?</h3>\n<p>No motor vehicles are permitted.</p>\n<h3 id=\"mcetoc_1gibcb8ct29i\">Safety and Support</h3>\n<p>This is a self-supported challenge. You assume all of the non-trivial risk and difficulty that comes with it. </p>\n<h3 id=\"mcetoc_1gibcb8ct29j\">Is this a race?</h3>\n<p>Short answer, no. The route primarily uses multi-use trails that are open to the public and not closed for the event. All riders are expected to be courteous to other trail users and follow any applicable laws. Do not exceed 15mph when slower trail users are present. If you want more of a challenge, try completing the challenge on a Walmart bike, or maybe a penny-farthing...</p>\n<h3 id=\"mcetoc_1gibcb8ct29k\">Is this a Flèche? Brevet? Permanent?</h3>\n<p>For those familiar with <a href=\"https://en.wikipedia.org/wiki/Randonneuring\" target=\"_blank\" rel=\"noopener noreferrer\">randonneur</a> terminology, Ohio24 combines ideas from flèches, brevets, and permanents. However, there are no plans for Ohio24 to adhere to any ACP/<a href=\"https://rusa.org/pages/rba-procedures/rba-procedures/routes\" target=\"_blank\" rel=\"noopener noreferrer\">RUSA</a> classification or rules. Ohio24 differs from a typical randonnées in that;</p>\n<ol>\n<li>You must ride 500 kilometers in less than 24 hours. This is quite a bit faster than what is recommended by ACP/RUSA for routes of this length, more than 40% faster...</li>\n<li>Ohio24 is point to point which makes the accomplishment sweeter, but also introduces logistical challenges that are often avoided by most randonnée routes.</li>\n<li>We have a few unreleased ideas to spice things up... Stay tuned.</li>\n</ol>\n<h3 id=\"mcetoc_1gibcb8ct29l\">I have done XX ride, do you think I can do this one?</h3>\n<p>If you need to ask then you likely don't have the experience required to safely attempt this challenge. Read some of the articles on Preparation.</p>\n<h3 id=\"mcetoc_1gibcb8ct29m\">Preparation</h3>\n<p>See [forthcoming] posts on <a href=\"#non-existing-post-with-id-7\">Training</a>, <a href=\"#non-existing-post-with-id-6\">Nutrition</a>, and <a href=\"#non-existing-post-with-id-5\">Equipment</a>.</p>\n<h3 id=\"mcetoc_1gibcb8ct29n\">Solo or Group</h3>\n<p>There are no restrictions on group riding. There is no recognition for riding solo.</p>\n<p> </p>",
+            "image": "https://info.ohio24.org/media/posts/4/pexels-pixabay-207779.jpg",
             "author": {
                 "name": "Ohio24"
             },
             "tags": [
             ],
             "date_published": "2022-10-27T19:33:50-04:00",
-            "date_modified": "2022-10-27T19:33:50-04:00"
+            "date_modified": "2022-11-20T15:40:49-05:00"
         },
         {
-            "id": "https://info.ohio24.org/about.html",
-            "url": "https://info.ohio24.org/about.html",
-            "title": "About",
-            "summary": "Philosophy 24 Hours Solo or Group",
-            "content_html": "<p>Philosophy</p>\n<p>24 Hours</p>\n<p>Solo or Group</p>\n<p> </p>",
+            "id": "https://info.ohio24.org/challenge.html",
+            "url": "https://info.ohio24.org/challenge.html",
+            "title": "The Challenge",
+            "summary": "Can you ride across Ohio in 24 hours or less? Yep, its that simple. To complete the challenge and become a \"Finisher\" you must;",
+            "content_html": "<p>Can you ride across Ohio in 24 hours or less? Yep, its that simple.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://info.ohio24.org/media/posts/3/logo-l.png\" sizes=\"100vw\" srcset=\"https://info.ohio24.org/media/posts/3/responsive/logo-l-xs.png 300w ,https://info.ohio24.org/media/posts/3/responsive/logo-l-sm.png 480w ,https://info.ohio24.org/media/posts/3/responsive/logo-l-md.png 768w ,https://info.ohio24.org/media/posts/3/responsive/logo-l-lg.png 1024w ,https://info.ohio24.org/media/posts/3/responsive/logo-l-xl.png 1360w ,https://info.ohio24.org/media/posts/3/responsive/logo-l-2xl.png 1600w\"  alt=\"\" width=\"280\" height=\"304\"></figure>\n<h2>Finishing Criteria</h2>\n<p>To complete the challenge and become a \"Finisher\" you must;</p>\n<ol>\n<li>Travel from the <em>start point</em> to the <em>end point</em> of <a href=\"https://info.ohio24.org/ohio24-route.html\">the route</a> in the span of a continuous 24 hour period\n<ol>\n<li>Pass through designated control points and generally adhere to the \"official\" route unless safety requires otherwise.</li>\n<li>Travel at least 500 kilometers</li>\n</ol>\n</li>\n<li>Use a human powered vehicle that is legal and safe to use on multi-use paths.</li>\n<li>Have a recorded GNSS (GPS) activity log that provides digital proof of passage. See previous efforts over on the <a href=\"https://info.ohio24.org/finishers.html\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Finisher page</a><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">.</span></li>\n</ol>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://info.ohio24.org/media/posts/3/IMG_2188.jpeg",
             "author": {
                 "name": "Ohio24"
             },
             "tags": [
             ],
             "date_published": "2022-10-27T19:31:34-04:00",
-            "date_modified": "2022-10-27T19:31:34-04:00"
-        },
-        {
-            "id": "https://info.ohio24.org/timeline.html",
-            "url": "https://info.ohio24.org/timeline.html",
-            "title": "Timeline",
-            "summary": "Average Speed Night Riding Trails, Roads, Limestone",
-            "content_html": "<p>Average Speed</p>\n<p>Night Riding</p>\n<p>Trails, Roads, Limestone</p>",
-            "author": {
-                "name": "Ohio24"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-10-27T19:25:11-04:00",
-            "date_modified": "2022-10-27T19:25:11-04:00"
+            "date_modified": "2022-11-20T15:39:47-05:00"
         },
         {
             "id": "https://info.ohio24.org/ohio24-route.html",
             "url": "https://info.ohio24.org/ohio24-route.html",
             "title": "Route",
-            "summary": "Highlights 311 miles, 500 kilometersflat, less than 6000ft total elevation gain 90% trail (80% paved, 10% crushed limestone)",
-            "content_html": "\n    <h2 id=\"highlights\">\n      Highlights\n    </h2>\n\n  <ul>\n    <li>311 miles, 500 kilometers</li><li>flat, less than 6000ft total elevation gain<br></li><li>90% trail (80% paved, 10% crushed limestone)</li>\n  </ul>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://ridewithgps.com/embeds?type=route&id=40075050&title=Ohio24&sampleGraph=true\" style=\"width: 1px; min-width: 100%; height: 700px; border: none;\" scrolling=\"no\"></iframe></div>\n</div>\n\n  <p>\n    \n  </p>",
+            "summary": "Highlights 311 miles, 500 kilometersflat, less than 7000ft total elevation gain 80% trail (70% paved, 10% crushed limestone) Overview The route begins on the banks of the Ohio River in downtown Cincinnati at the riverfront park. The route from Cincinnati to Columbus is straight, paved,&hellip;",
+            "content_html": "\n    <h2 id=\"highlights\">\n      Highlights\n    </h2>\n\n  <ul>\n    <li>311 miles, 500 kilometers</li><li>flat, less than 7000ft total elevation gain<br></li><li>80% trail (70% paved, 10% crushed limestone)</li>\n  </ul>\n\n    <h2 id=\"overview\">\n      Overview\n    </h2>\n\n  <p>\n    The route begins on the banks of the Ohio River in downtown Cincinnati at the riverfront park. The route from Cincinnati to Columbus is straight, paved, and fast. Yellow Springs, a friendly cycling town and home of Dave Chappell, is a short jog away as you pass through Xenia. You reach Columbus by late afternoon and should have time to resupply and prepare your bike to ride into the night. By the time you leave the Columbus metropolitan area the sun is setting and you are heading into the remote countryside of the Amish community. The gently rolling hills are illuminated by a full moon and the country roads are quiet. Things get busier as you approach Akron as you roll past Lebron James' high school grounds. As the sun starts to rise you quickly leave the city behind and enter the Cuyahoga Valley National Park. This path is mostly crushed limestone which offers a slower and winding route through Ohio's only National Park. When you exit the Park you are plunged back into the city at the edge of Cleveland. At this point you can taste the finish. Grab an early morning coffee and head to Edgewater Park on the shores of Lake Erie, the warmest of all the Great Lakes. Celebrate your accomplishment by taking a plunge and don't forget to save your GPS activity for submission.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://info.ohio24.org/media/posts/1/0688y000002TiRnAAK.jpg\" sizes=\"100vw\" srcset=\"https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-xs.jpg 300w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-sm.jpg 480w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-md.jpg 768w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-lg.jpg 1024w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-xl.jpg 1360w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-2xl.jpg 1600w\"  height=\"1440\" width=\"2560\" alt=\"\" />\n      \n    </figure>\n\n    <h2 id=\"details\">\n      Details\n    </h2>\n\n  <p>\n    The Ohio24 route uses the <a href=\"https://www.ohiotoerietrail.org\" target=\"_blank\">Ohio to Erie Trail</a> with a few notable differences. The Ohio to Erie Trail, also known as OTET, Ohio Bicycle Route 1, and soon US Bicycle Route 21, is a \"326\" mile route from Cincinnati to Cleveland. 10% of the route is still on roads, however these segments are being actively being replaced with off-road trail. As the OTET evolves so will the Ohio24 route.&nbsp;Currently, Ohio24 does not make use of the Massillon section of the OTET trail. There are also suggested route deviations through Columbus.\n  </p>\n\n  <p>\n    Prevailing winds are from the south. The route traverses Ohio from Southwest to the Northeast for this reason. While winds can be quite strong, most of the route has some tree cover that acts as a barrier if winds are coming from the north or east. While extreme weather is not common, Ohio does occasionally see 100+ degree Fahrenheit temperatures, severe lightning storms, hail, and tornadoes.\n  </p>\n\n  <p>\n    The RWGPS route below is provided for reference. Ohio24 does not require riders to follow the route exactly. Similar to randonneuring, Ohio24 makes use of control points that riders must pass through. These control points will be located in Cincinnati, Columbus, Akron, and Cleveland. This allows for route flexibility when trail conditions or construction prevent safe passage. However, there is a strict requirement for the route taken to be at least 311 miles or 500 kilometers long as determined by GNSS (GPS) activity files.\n  </p>\n\n  <p>\n    Until I can figure out how to embed an iFrame here is the<a href=\"https://ridewithgps.com/embeds?type=route&amp;id=40075050&amp;title=Ohio24&amp;sampleGraph=true\" target=\"_blank\"> link to the route</a>.&nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://info.ohio24.org/media/posts/1/Towpath-Marathon_5_Wuske-780x400.jpg\" sizes=\"100vw\" srcset=\"https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-xs.jpg 300w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-sm.jpg 480w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-md.jpg 768w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-lg.jpg 1024w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-xl.jpg 1360w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-2xl.jpg 1600w\"  height=\"400\" width=\"780\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://info.ohio24.org/media/posts/1/0688y000002TfhqAAC.jpg",
             "author": {
                 "name": "Ohio24"
             },
             "tags": [
             ],
             "date_published": "2022-10-27T18:48:26-04:00",
-            "date_modified": "2022-10-28T11:12:52-04:00"
+            "date_modified": "2022-11-20T15:39:32-05:00"
         }
     ]
 }
