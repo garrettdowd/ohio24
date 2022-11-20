@@ -3,7 +3,7 @@
     <title>Ohio24</title>
     <link href="https://info.ohio24.org/feed.xml" rel="self" />
     <link href="https://info.ohio24.org" />
-    <updated>2022-11-20T15:56:31-05:00</updated>
+    <updated>2022-11-20T16:12:14-05:00</updated>
     <author>
         <name>Ohio24</name>
     </author>
@@ -17,19 +17,19 @@
         <link href="https://info.ohio24.org/solstice-event.html"/>
         <id>https://info.ohio24.org/solstice-event.html</id>
 
-        <updated>2022-11-20T15:28:52-05:00</updated>
+        <updated>2022-11-20T16:12:14-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/13/pexels-roman-pohorecki-287398.jpg" alt="" />
-                    Planing for the 2023 solstice event is underway. Are you interested in tackling this challenge with others on the longest day of the year? Let us know by sending a quick message to hi@ohio24.org
+                    Planing for the 2023 solstice event is underway. Are you interested in tackling this challenge with others on the longest day of the year? Let us know by sending a quick message to hi@ohio24.org For now click here to learn more about The Challenge.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://info.ohio24.org/media/posts/13/pexels-roman-pohorecki-287398.jpg" alt="" />
                 <p>Planing for the 2023 solstice event is underway.</p>
-<p>Are you interested in tackling this challenge with others on the longest day of the year?</p>
-<p>Let us know by sending a quick message to hi@ohio24.org</p>
+<p>Are you interested in tackling this challenge with others on the longest day of the year? Let us know by sending a quick message to <a href="mailto:hi@ohio24.org">hi@ohio24.org</a></p>
+<p>For now <a href="https://info.ohio24.org/challenge.html">click here to learn more about The Challenge</a>.</p>
             ]]>
         </content>
     </entry>

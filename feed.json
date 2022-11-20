@@ -14,8 +14,8 @@
             "id": "https://info.ohio24.org/solstice-event.html",
             "url": "https://info.ohio24.org/solstice-event.html",
             "title": "Solstice Event",
-            "summary": "Planing for the 2023 solstice event is underway. Are you interested in tackling this challenge with others on the longest day of the year? Let us know by sending a quick message to hi@ohio24.org",
-            "content_html": "<p>Planing for the 2023 solstice event is underway.</p>\n<p>Are you interested in tackling this challenge with others on the longest day of the year?</p>\n<p>Let us know by sending a quick message to hi@ohio24.org</p>",
+            "summary": "Planing for the 2023 solstice event is underway. Are you interested in tackling this challenge with others on the longest day of the year? Let us know by sending a quick message to hi@ohio24.org For now click here to learn more about The Challenge.",
+            "content_html": "<p>Planing for the 2023 solstice event is underway.</p>\n<p>Are you interested in tackling this challenge with others on the longest day of the year? Let us know by sending a quick message to <a href=\"mailto:hi@ohio24.org\">hi@ohio24.org</a></p>\n<p>For now <a href=\"https://info.ohio24.org/challenge.html\">click here to learn more about The Challenge</a>.</p>",
             "image": "https://info.ohio24.org/media/posts/13/pexels-roman-pohorecki-287398.jpg",
             "author": {
                 "name": "Ohio24"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2022-11-20T14:17:59-05:00",
-            "date_modified": "2022-11-20T15:28:52-05:00"
+            "date_modified": "2022-11-20T16:12:14-05:00"
         },
         {
             "id": "https://info.ohio24.org/finishers.html",
