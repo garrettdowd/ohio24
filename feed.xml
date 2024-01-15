@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Ohio24</title>
     <link href="https://info.ohio24.org/feed.xml" rel="self" />
     <link href="https://info.ohio24.org" />
-    <updated>2022-11-23T22:06:35-05:00</updated>
+    <updated>2024-01-14T19:41:12-05:00</updated>
     <author>
         <name>Ohio24</name>
     </author>
     <id>https://info.ohio24.org</id>
 
+    <entry>
+        <title>Finisher #0001</title>
+        <author>
+            <name>Ohio24</name>
+        </author>
+        <link href="https://info.ohio24.org/finisher-0001.html"/>
+        <id>https://info.ohio24.org/finisher-0001.html</id>
+
+        <updated>2024-01-14T18:31:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Cervelo P5 &amp; Scott Scale 940 Restrap and Ortlieb Bags Profile Designs Aerobars Garmin Edge 530 + Varia Light Works
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>Cervelo P5 &amp; Scott Scale 940<br>Restrap and Ortlieb Bags<br>Profile Designs Aerobars<br>Garmin Edge 530 + Varia <br>Light Works</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Solstice Event</title>
         <author>
@@ -16,19 +37,20 @@
         </author>
         <link href="https://info.ohio24.org/solstice-event.html"/>
         <id>https://info.ohio24.org/solstice-event.html</id>
+        <media:content url="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" medium="image" />
 
-        <updated>2022-11-23T17:07:12-05:00</updated>
+        <updated>2024-01-14T19:41:12-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://info.ohio24.org/media/posts/13/pexels-roman-pohorecki-287398.jpg" alt="" />
-                    Planning for the 2023 solstice event is underway. Are you interested in tackling this challenge with others on the longest day of the year? Let us know by sending a quick message to hi@ohio24.org For now click here to learn more about The Challenge.
+                        <img src="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" alt="" />
+                    Thursday, 20 June 2024. Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to hi@ohio24.org For now click here to learn more about The Challenge.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://info.ohio24.org/media/posts/13/pexels-roman-pohorecki-287398.jpg" alt="" />
-                <p>Planning for the 2023 solstice event is underway.</p>
-<p>Are you interested in tackling this challenge with others on the longest day of the year? Let us know by sending a quick message to <a href="mailto:hi@ohio24.org">hi@ohio24.org</a> </p>
+                    <p><img src="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">Thursday, 20 June 2024.</p>
+<p>Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to <a href="mailto:hi@ohio24.org">hi@ohio24.org</a> </p>
 <p>For now <a href="https://info.ohio24.org/challenge.html">click here to learn more about The Challenge</a>.</p>
             ]]>
         </content>
@@ -40,8 +62,9 @@
         </author>
         <link href="https://info.ohio24.org/finishers.html"/>
         <id>https://info.ohio24.org/finishers.html</id>
+        <media:content url="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" medium="image" />
 
-        <updated>2022-11-23T21:57:44-05:00</updated>
+        <updated>2024-01-14T19:33:44-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" alt="" />
@@ -50,22 +73,22 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" alt="" />
+                    <p><img src="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing <a href="https://info.ohio24.org/challenge.html">The Challenge</a>.</p>
 <p>Are you a Finisher? <span style="color: #e67e23;">Submit your details</span> to get added to this page. Finishers with a finishing time of less than 20 hours are not displayed here (or anywhere). See the <a href="https://info.ohio24.org/faq.html">FAQ</a>.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100.142%; height: 174px;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3809%;">Name</td>
-<td style="width: 17.2611%;">Date</td>
-<td style="width: 24.4057%;">Activity Link</td>
-<td style="width: 24.9523%;">Equipment</td>
+<td style="width: 17.2367%;">Name</td>
+<td style="width: 22.5074%;">Date</td>
+<td style="width: 20.3775%;">Activity Link</td>
+<td style="width: 39.8795%;">Equipment</td>
 </tr>
 <tr>
-<td style="width: 33.3809%;"> </td>
-<td style="width: 17.2611%;"> </td>
-<td style="width: 24.4057%;"> </td>
-<td style="width: 24.9523%;"> </td>
+<td style="width: 17.2367%;">Garrett</td>
+<td style="width: 22.5074%;">17 June 2023</td>
+<td style="width: 20.3775%;"><a href="https://strava.app.link/ySGOLCOGmGb" target="_blank" rel="noopener noreferrer">Strava</a></td>
+<td style="width: 39.8795%;"><a href="https://info.ohio24.org/finisher-0001.html"></a>Cervelo P5 + Scott Scale 940<br><a href="https://info.ohio24.org/finisher-0001.html">Full Recap</a></td>
 </tr>
 </tbody>
 </table>
@@ -79,27 +102,29 @@
         </author>
         <link href="https://info.ohio24.org/faq.html"/>
         <id>https://info.ohio24.org/faq.html</id>
+        <media:content url="https://info.ohio24.org/media/posts/4/IMG_3305.jpg" medium="image" />
             <category term="about"/>
 
-        <updated>2022-11-23T22:06:35-05:00</updated>
+        <updated>2024-01-14T19:35:40-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://info.ohio24.org/media/posts/4/pexels-pixabay-207779.jpg" alt="" />
+                        <img src="https://info.ohio24.org/media/posts/4/IMG_3305.jpg" alt="" />
                     Tricycles? Handcycles? Recumbents? Any small vehicle that is suitable for use on a multi-use trail and solely human powered is permitted. Recumbents with fairings are generally not suitable for use on a multi-use trail. No motor vehicles are permitted. This is a self-supported challenge. You&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://info.ohio24.org/media/posts/4/pexels-pixabay-207779.jpg" alt="" />
+                    <p><img src="https://info.ohio24.org/media/posts/4/IMG_3305.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
 <li><a href="#mcetoc_1gibcb8ct29g">Tricycles? Handcycles? Recumbents?</a></li>
 <li><a href="#mcetoc_1gibcb8ct29h">eBikes?</a></li>
 <li><a href="#mcetoc_1gibcb8ct29i">Safety and Support</a></li>
+<li><a href="#mcetoc_1gibcb8ct29l">I have done [x] ride, do you think I can do this one?</a></li>
 <li><a href="#mcetoc_1gibcb8ct29j">Is this a race?</a></li>
+<li><a href="#mcetoc_1hk4uf45h15">Is there a World Ultracycling Association (WUCA) Record associated with this route?</a></li>
 <li><a href="#mcetoc_1gibcb8ct29k">Is this a Flèche? Brevet? Permanent?</a></li>
-<li><a href="#mcetoc_1gibcb8ct29l">I have done XX ride, do you think I can do this one?</a></li>
 <li><a href="#mcetoc_1gibcb8ct29m">Preparation</a></li>
 <li><a href="#mcetoc_1gibcb8ct29n">Solo or Group</a></li>
 </ul>
@@ -113,11 +138,9 @@
 <h3 id="mcetoc_1gibcb8ct29l">I have done [x] ride, do you think I can do this one?</h3>
 <p>If you need to ask then you likely don't have the experience required to safely attempt this challenge. Read some of the articles on Preparation.</p>
 <h3 id="mcetoc_1gibcb8ct29j">Is this a race?</h3>
-<p>Short answer, no. The route primarily uses multi-use trails that are open to the public and not closed for the event. All riders are expected to be courteous to other trail users and follow any applicable laws. Do not exceed 15mph when slower trail users are present. If you want more of a challenge, try completing the challenge on a Walmart bike, or maybe a penny-farthing...</p>
-<h3>Is there a World Ultracycling Association (WUCA) Record associated with this route?</h3>
+<p>Short answer, no. The route primarily uses multi-use trails that are open to the public and not closed for the event. All riders are expected to be courteous to other trail users and follow any applicable laws. Do not exceed 15mph when slower trail users are present. If you want more of a challenge try completing the challenge on a fat bike or maybe a penny-farthing...</p>
+<h3 id="mcetoc_1hk4uf45h15">Is there a World Ultracycling Association (WUCA) Record associated with this route?</h3>
 <p>No. Riders attempting Ohio24 are discouraged from completing the route as fast as possible. This is both to ensure safe use of trails and to encourage riders to pursue alternative forms of difficulty. If you are a professional athlete and can complete the route in 16 hours on a $10,000 time trial bike and custom aero-suit, consider challenging yourself (and gaining the respect of fellow riders) by completing the challenge on a beach cruiser.</p>
-<h3>I completed the challenge in less than 20 hours, why was my effort rejected from the Finisher page?</h3>
-<p>To complete the challenge in less than 20 hours Finishers must maintain a total average speed above 15 miles per hour. Speeds above 15mph pose a greater risk to other trail users. Thus these efforts will not be publicly displayed nor encouraged. See the questions above for more info.</p>
 <h3 id="mcetoc_1gibcb8ct29k">Is this a Flèche? Brevet? Permanent?</h3>
 <p>For those familiar with <a href="https://en.wikipedia.org/wiki/Randonneuring" target="_blank" rel="noopener noreferrer">randonneur</a> terminology, Ohio24 combines ideas from flèches, brevets, and permanents. However, there are no plans for Ohio24 to adhere to any ACP/<a href="https://rusa.org/pages/rba-procedures/rba-procedures/routes" target="_blank" rel="noopener noreferrer">RUSA</a> classification or rules. Ohio24 differs from a typical randonnées in that;</p>
 <ol>
@@ -127,7 +150,7 @@
 <h3 id="mcetoc_1gibcb8ct29m">Preparation</h3>
 <p>See [forthcoming] posts on <a href="#non-existing-post-with-id-7">Training</a>, <a href="#non-existing-post-with-id-6">Nutrition</a>, and <a href="#non-existing-post-with-id-5">Equipment</a>.</p>
 <h3 id="mcetoc_1gibcb8ct29n">Solo or Group</h3>
-<p>There are no restrictions on group riding. There is no recognition for riding solo.</p>
+<p>There are no restrictions on group riding. There is no additional recognition for riding solo.</p>
 <p> </p>
             ]]>
         </content>
@@ -139,18 +162,19 @@
         </author>
         <link href="https://info.ohio24.org/challenge.html"/>
         <id>https://info.ohio24.org/challenge.html</id>
+        <media:content url="https://info.ohio24.org/media/posts/3/IMG_3425.jpg" medium="image" />
             <category term="about"/>
 
-        <updated>2022-11-23T21:40:19-05:00</updated>
+        <updated>2024-01-14T19:31:14-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://info.ohio24.org/media/posts/3/IMG_2188.jpeg" alt="" />
+                        <img src="https://info.ohio24.org/media/posts/3/IMG_3425.jpg" alt="" />
                     Can you ride across Ohio in 24 hours or less? Yep, its that simple. To complete the challenge and become a "Finisher" you must; Check out The Route.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://info.ohio24.org/media/posts/3/IMG_2188.jpeg" alt="" />
+                    <p><img src="https://info.ohio24.org/media/posts/3/IMG_3425.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Can you ride across Ohio in 24 hours or less? Yep, its that simple.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://info.ohio24.org/media/posts/3/logo-l-a.gif" alt="" width="368" height="368"></figure>
 <h2>Finishing Criteria</h2>
@@ -162,11 +186,7 @@
 <li>Travel at least 500 kilometers</li>
 </ol>
 </li>
-<li>Complete the route (as specified above) in the span of a continuous 24 hour period.
-<ol>
-<li>Completing the challenge in less than 20 hours will disqualify your attempt from being listed on the <a href="https://info.ohio24.org/finishers.html">Finisher </a>page (see <a href="https://info.ohio24.org/faq.html">FAQ</a>).</li>
-</ol>
-</li>
+<li>Complete the route (as specified above) in the span of a continuous 24 hour period.</li>
 <li>Use a human powered vehicle that is legal and safe to use on multi-use paths.</li>
 <li>Have a recorded GNSS (GPS) activity log that provides digital proof of passage. See previous efforts over on the <a href="https://info.ohio24.org/finishers.html" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Finisher page</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">.</span></li>
 </ol>
@@ -183,9 +203,10 @@
         </author>
         <link href="https://info.ohio24.org/ohio24-route.html"/>
         <id>https://info.ohio24.org/ohio24-route.html</id>
+        <media:content url="https://info.ohio24.org/media/posts/1/0688y000002TfhqAAC.jpg" medium="image" />
             <category term="about"/>
 
-        <updated>2022-11-20T16:16:12-05:00</updated>
+        <updated>2024-01-14T16:43:05-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/1/0688y000002TfhqAAC.jpg" alt="" />
@@ -194,7 +215,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://info.ohio24.org/media/posts/1/0688y000002TfhqAAC.jpg" alt="" />
+                    <p><img src="https://info.ohio24.org/media/posts/1/0688y000002TfhqAAC.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="highlights">
       Highlights
@@ -209,11 +230,11 @@
     </h2>
 
   <p>
-    The route begins on the banks of the Ohio River in downtown Cincinnati at the riverfront park. The route from Cincinnati to Columbus is straight, paved, and fast. Yellow Springs, a friendly cycling town and home of Dave Chappell, is a short jog away as you pass through Xenia. You reach Columbus by late afternoon and should have time to resupply and prepare your bike to ride into the night. By the time you leave the Columbus metropolitan area the sun is setting and you are heading into the remote countryside of the Amish community. The gently rolling hills are illuminated by a full moon and the country roads are quiet. Things get busier as you approach Akron as you roll past Lebron James' high school grounds. As the sun starts to rise you quickly leave the city behind and enter the Cuyahoga Valley National Park. This path is mostly crushed limestone which offers a slower and winding route through Ohio's only National Park. When you exit the Park you are plunged back into the city at the edge of Cleveland. At this point you can taste the finish. Grab an early morning coffee and head to Edgewater Park on the shores of Lake Erie, the warmest of all the Great Lakes. Celebrate your accomplishment by taking a plunge and don't forget to save your GPS activity for submission.
+    The route begins on the banks of the Ohio River in downtown Cincinnati at the riverfront park. The route from Cincinnati to Columbus is straight, paved, and fast. Yellow Springs, a friendly cycling town and home of Dave Chappell, is a short jog away as you pass through Xenia. You reach Columbus by late afternoon and should have time to resupply and prepare your bike to ride into the night. By the time you leave the Columbus metropolitan area the sun is setting and you are heading into the remote countryside of the Amish community. The gently rolling hills are illuminated by a full moon and the country roads are quiet. Things get busier as you approach Akron as you roll past Lebron James' high school grounds. As the sun starts to rise you quickly leave the city behind and enter the Cuyahoga Valley National Park. This path is mostly crushed limestone which offers a slower and winding route through Ohio's only National Park. When you exit the Park you are plunged back into the city at the edge of Cleveland. At this point you can taste the finish. Grab an early morning coffee and head to Edgewater Park on the shores of Lake Erie, the shallowest of all the Great Lakes. Celebrate your accomplishment by taking a plunge and don't forget to save your GPS activity for submission.
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://info.ohio24.org/media/posts/1/0688y000002TiRnAAK.jpg" sizes="100vw" srcset="https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-xs.jpg 300w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-sm.jpg 480w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-md.jpg 768w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-lg.jpg 1024w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-xl.jpg 1360w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-2xl.jpg 1600w"  height="1440" width="2560" alt="" />
+      <img loading="lazy" src="https://info.ohio24.org/media/posts/1/0688y000002TiRnAAK.jpg" height="1440" width="2560" alt=""  sizes="100vw" srcset="https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-xs.jpg 300w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-sm.jpg 480w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-md.jpg 768w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-lg.jpg 1024w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-xl.jpg 1360w ,https://info.ohio24.org/media/posts/1/responsive/0688y000002TiRnAAK-2xl.jpg 1600w">
       
     </figure>
 
@@ -238,7 +259,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://info.ohio24.org/media/posts/1/Towpath-Marathon_5_Wuske-780x400.jpg" sizes="100vw" srcset="https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-xs.jpg 300w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-sm.jpg 480w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-md.jpg 768w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-lg.jpg 1024w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-xl.jpg 1360w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-2xl.jpg 1600w"  height="400" width="780" alt="" />
+      <img loading="lazy" src="https://info.ohio24.org/media/posts/1/Towpath-Marathon_5_Wuske-780x400.jpg" height="400" width="780" alt=""  sizes="100vw" srcset="https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-xs.jpg 300w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-sm.jpg 480w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-md.jpg 768w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-lg.jpg 1024w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-xl.jpg 1360w ,https://info.ohio24.org/media/posts/1/responsive/Towpath-Marathon_5_Wuske-780x400-2xl.jpg 1600w">
       
     </figure>
             ]]>
