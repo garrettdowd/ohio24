@@ -11,25 +11,11 @@
     },
     "items": [
         {
-            "id": "https://info.ohio24.org/finisher-0001.html",
-            "url": "https://info.ohio24.org/finisher-0001.html",
-            "title": "Finisher #0001",
-            "summary": "Cervelo P5 &amp; Scott Scale 940 Restrap and Ortlieb Bags Profile Designs Aerobars Garmin Edge 530 + Varia Light Works",
-            "content_html": "<p> </p>\n<p>Cervelo P5 &amp; Scott Scale 940<br>Restrap and Ortlieb Bags<br>Profile Designs Aerobars<br>Garmin Edge 530 + Varia <br>Light Works</p>",
-            "author": {
-                "name": "Ohio24"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-01-14T18:31:11-05:00",
-            "date_modified": "2024-01-14T18:31:11-05:00"
-        },
-        {
             "id": "https://info.ohio24.org/solstice-event.html",
             "url": "https://info.ohio24.org/solstice-event.html",
             "title": "Solstice Event",
-            "summary": "Thursday, 20 June 2024. Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to hi@ohio24.org For now click here to learn more about The Challenge.",
-            "content_html": "<p class=\"align-center\">Thursday, 20 June 2024.</p>\n<p>Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to <a href=\"mailto:hi@ohio24.org\">hi@ohio24.org</a> </p>\n<p>For now <a href=\"https://info.ohio24.org/challenge.html\">click here to learn more about The Challenge</a>.</p>",
+            "summary": "Thursday, 20 June 2024. Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to hello@ohio24.org For now click here to learn more about The Challenge.",
+            "content_html": "<p class=\"align-center\">Thursday, 20 June 2024.</p>\n<p>Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to <a href=\"mailto:hello@ohio24.org\">hello@ohio24.org</a> </p>\n<p>For now <a href=\"https://info.ohio24.org/challenge.html\">click here to learn more about The Challenge</a>.</p>",
             "image": "https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg",
             "author": {
                 "name": "Ohio24"
@@ -37,14 +23,14 @@
             "tags": [
             ],
             "date_published": "2022-11-20T14:17:59-05:00",
-            "date_modified": "2024-01-14T19:41:12-05:00"
+            "date_modified": "2024-01-14T20:04:20-05:00"
         },
         {
             "id": "https://info.ohio24.org/finishers.html",
             "url": "https://info.ohio24.org/finishers.html",
             "title": "Finishers",
-            "summary": "Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing The Challenge. Are you a Finisher? Submit your details to get added to this page. Finishers with a finishing time of less than 20 hours are not displayed here&hellip;",
-            "content_html": "<p>Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing <a href=\"https://info.ohio24.org/challenge.html\">The Challenge</a>.</p>\n<p>Are you a Finisher? <span style=\"color: #e67e23;\">Submit your details</span> to get added to this page. Finishers with a finishing time of less than 20 hours are not displayed here (or anywhere). See the <a href=\"https://info.ohio24.org/faq.html\">FAQ</a>.</p>\n<table style=\"border-collapse: collapse; width: 100.142%; height: 174px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 17.2367%;\">Name</td>\n<td style=\"width: 22.5074%;\">Date</td>\n<td style=\"width: 20.3775%;\">Activity Link</td>\n<td style=\"width: 39.8795%;\">Equipment</td>\n</tr>\n<tr>\n<td style=\"width: 17.2367%;\">Garrett</td>\n<td style=\"width: 22.5074%;\">17 June 2023</td>\n<td style=\"width: 20.3775%;\"><a href=\"https://strava.app.link/ySGOLCOGmGb\" target=\"_blank\" rel=\"noopener noreferrer\">Strava</a></td>\n<td style=\"width: 39.8795%;\"><a href=\"https://info.ohio24.org/finisher-0001.html\"></a>Cervelo P5 + Scott Scale 940<br><a href=\"https://info.ohio24.org/finisher-0001.html\">Full Recap</a></td>\n</tr>\n</tbody>\n</table>",
+            "summary": "Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing The Challenge. Are you a Finisher? Submit your details to get added to this page. See the FAQ. Honorable Failures Name Date Activity Link Equipment Garrett 17 June 2023&hellip;",
+            "content_html": "<p>Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing <a href=\"https://info.ohio24.org/challenge.html\">The Challenge</a>.</p>\n<p>Are you a Finisher? <span style=\"color: #e67e23;\">Submit your details</span> to get added to this page. See the <a href=\"https://info.ohio24.org/faq.html\">FAQ</a>.</p>\n<h1>Finishers</h1>\n<table style=\"border-collapse: collapse; width: 100.142%; height: 174px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 17.2367%;\">Name</td>\n<td style=\"width: 22.5074%;\">Date</td>\n<td style=\"width: 20.3775%;\">Activity Link</td>\n<td style=\"width: 39.8795%;\">Equipment</td>\n</tr>\n<tr>\n<td style=\"width: 17.2367%;\"> </td>\n<td style=\"width: 22.5074%;\"> </td>\n<td style=\"width: 20.3775%;\"> </td>\n<td style=\"width: 39.8795%;\"> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<h2>Honorable Failures</h2>\n<table style=\"border-collapse: collapse; width: 100.142%; height: 174px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 17.2367%;\">Name</td>\n<td style=\"width: 22.5074%;\">Date</td>\n<td style=\"width: 20.3775%;\">Activity Link</td>\n<td style=\"width: 39.8795%;\">Equipment</td>\n</tr>\n<tr>\n<td style=\"width: 17.2367%;\">Garrett</td>\n<td style=\"width: 22.5074%;\">17 June 2023</td>\n<td style=\"width: 20.3775%;\"><a href=\"https://strava.app.link/ySGOLCOGmGb\" target=\"_blank\" rel=\"noopener noreferrer\">Strava</a></td>\n<td style=\"width: 39.8795%;\"><a href=\"#non-existing-post-with-id-15\"></a>Cervelo P5 + Scott Scale 940</td>\n</tr>\n</tbody>\n</table>",
             "image": "https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg",
             "author": {
                 "name": "Ohio24"
@@ -52,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2022-11-18T10:15:32-05:00",
-            "date_modified": "2024-01-14T19:33:44-05:00"
+            "date_modified": "2024-01-14T20:07:35-05:00"
         },
         {
             "id": "https://info.ohio24.org/faq.html",

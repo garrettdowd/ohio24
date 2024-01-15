@@ -3,33 +3,12 @@
     <title>Ohio24</title>
     <link href="https://info.ohio24.org/feed.xml" rel="self" />
     <link href="https://info.ohio24.org" />
-    <updated>2024-01-14T19:41:12-05:00</updated>
+    <updated>2024-01-14T20:07:35-05:00</updated>
     <author>
         <name>Ohio24</name>
     </author>
     <id>https://info.ohio24.org</id>
 
-    <entry>
-        <title>Finisher #0001</title>
-        <author>
-            <name>Ohio24</name>
-        </author>
-        <link href="https://info.ohio24.org/finisher-0001.html"/>
-        <id>https://info.ohio24.org/finisher-0001.html</id>
-
-        <updated>2024-01-14T18:31:11-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Cervelo P5 &amp; Scott Scale 940 Restrap and Ortlieb Bags Profile Designs Aerobars Garmin Edge 530 + Varia Light Works
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p> </p>
-<p>Cervelo P5 &amp; Scott Scale 940<br>Restrap and Ortlieb Bags<br>Profile Designs Aerobars<br>Garmin Edge 530 + Varia <br>Light Works</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Solstice Event</title>
         <author>
@@ -39,18 +18,18 @@
         <id>https://info.ohio24.org/solstice-event.html</id>
         <media:content url="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" medium="image" />
 
-        <updated>2024-01-14T19:41:12-05:00</updated>
+        <updated>2024-01-14T20:04:20-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" alt="" />
-                    Thursday, 20 June 2024. Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to hi@ohio24.org For now click here to learn more about The Challenge.
+                    Thursday, 20 June 2024. Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to hello@ohio24.org For now click here to learn more about The Challenge.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Thursday, 20 June 2024.</p>
-<p>Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to <a href="mailto:hi@ohio24.org">hi@ohio24.org</a> </p>
+<p>Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to <a href="mailto:hello@ohio24.org">hello@ohio24.org</a> </p>
 <p>For now <a href="https://info.ohio24.org/challenge.html">click here to learn more about The Challenge</a>.</p>
             ]]>
         </content>
@@ -64,18 +43,37 @@
         <id>https://info.ohio24.org/finishers.html</id>
         <media:content url="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" medium="image" />
 
-        <updated>2024-01-14T19:33:44-05:00</updated>
+        <updated>2024-01-14T20:07:35-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" alt="" />
-                    Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing The Challenge. Are you a Finisher? Submit your details to get added to this page. Finishers with a finishing time of less than 20 hours are not displayed here&hellip;
+                    Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing The Challenge. Are you a Finisher? Submit your details to get added to this page. See the FAQ. Honorable Failures Name Date Activity Link Equipment Garrett 17 June 2023&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing <a href="https://info.ohio24.org/challenge.html">The Challenge</a>.</p>
-<p>Are you a Finisher? <span style="color: #e67e23;">Submit your details</span> to get added to this page. Finishers with a finishing time of less than 20 hours are not displayed here (or anywhere). See the <a href="https://info.ohio24.org/faq.html">FAQ</a>.</p>
+<p>Are you a Finisher? <span style="color: #e67e23;">Submit your details</span> to get added to this page. See the <a href="https://info.ohio24.org/faq.html">FAQ</a>.</p>
+<h1>Finishers</h1>
+<table style="border-collapse: collapse; width: 100.142%; height: 174px;" border="1">
+<tbody>
+<tr>
+<td style="width: 17.2367%;">Name</td>
+<td style="width: 22.5074%;">Date</td>
+<td style="width: 20.3775%;">Activity Link</td>
+<td style="width: 39.8795%;">Equipment</td>
+</tr>
+<tr>
+<td style="width: 17.2367%;"> </td>
+<td style="width: 22.5074%;"> </td>
+<td style="width: 20.3775%;"> </td>
+<td style="width: 39.8795%;"> </td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h2>Honorable Failures</h2>
 <table style="border-collapse: collapse; width: 100.142%; height: 174px;" border="1">
 <tbody>
 <tr>
@@ -88,7 +86,7 @@
 <td style="width: 17.2367%;">Garrett</td>
 <td style="width: 22.5074%;">17 June 2023</td>
 <td style="width: 20.3775%;"><a href="https://strava.app.link/ySGOLCOGmGb" target="_blank" rel="noopener noreferrer">Strava</a></td>
-<td style="width: 39.8795%;"><a href="https://info.ohio24.org/finisher-0001.html"></a>Cervelo P5 + Scott Scale 940<br><a href="https://info.ohio24.org/finisher-0001.html">Full Recap</a></td>
+<td style="width: 39.8795%;"><a href="#non-existing-post-with-id-15"></a>Cervelo P5 + Scott Scale 940</td>
 </tr>
 </tbody>
 </table>
