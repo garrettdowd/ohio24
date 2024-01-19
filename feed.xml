@@ -3,12 +3,36 @@
     <title>Ohio24</title>
     <link href="https://info.ohio24.org/feed.xml" rel="self" />
     <link href="https://info.ohio24.org" />
-    <updated>2024-01-19T10:23:45-05:00</updated>
+    <updated>2024-01-19T12:20:30-05:00</updated>
     <author>
         <name>Ohio24</name>
     </author>
     <id>https://info.ohio24.org</id>
 
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Ohio24</name>
+        </author>
+        <link href="https://info.ohio24.org/contact.html"/>
+        <id>https://info.ohio24.org/contact.html</id>
+
+        <updated>2024-01-19T11:53:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Join the community on Discord to learn more, ask questions, and connect with other riders. Prefer steel frames and 90's tech? Send an email to hello@ohio24.org.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Join the <a href="https://discord.gg/smwDXumJq2" target="_blank" rel="noopener noreferrer">community on Discord</a> to learn more, ask questions, and connect with other riders.</p>
+<p>Prefer steel frames and 90's tech? Send an email to <a href="mailto:hello@ohio24.org">hello@ohio24.org</a>.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Solstice Event</title>
         <author>
@@ -18,19 +42,19 @@
         <id>https://info.ohio24.org/solstice-event.html</id>
         <media:content url="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" medium="image" />
 
-        <updated>2024-01-19T10:23:45-05:00</updated>
+        <updated>2024-01-19T11:51:17-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" alt="" />
-                    Thursday, 20 June 2024. Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to solstice@ohio24.org For now click here to learn more about The Challenge.
+                    Thursday, 20 June 2024. Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to solstice@ohio24.org or message us on Discord. Click here to learn more about The Challenge.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Thursday, 20 June 2024.</p>
-<p>Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to <a href="mailto:solstice@ohio24.org">solstice@ohio24.org</a> </p>
-<p>For now <a href="https://info.ohio24.org/challenge.html">click here to learn more about The Challenge</a>.</p>
+<p>Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to <a href="mailto:solstice@ohio24.org">solstice@ohio24.org</a> or <a href="https://discord.gg/UqCF5mMt" target="_blank" rel="noopener noreferrer">message us on Discord</a>.</p>
+<p><a href="https://info.ohio24.org/challenge.html">Click here to learn more about The Challenge</a>.</p>
             ]]>
         </content>
     </entry>
@@ -43,7 +67,7 @@
         <id>https://info.ohio24.org/finishers.html</id>
         <media:content url="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" medium="image" />
 
-        <updated>2024-01-14T20:07:35-05:00</updated>
+        <updated>2024-01-19T11:43:58-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" alt="" />
@@ -54,7 +78,7 @@
             <![CDATA[
                     <p><img src="https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing <a href="https://info.ohio24.org/challenge.html">The Challenge</a>.</p>
-<p>Are you a Finisher? <span style="color: #e67e23;">Submit your details</span> to get added to this page. See the <a href="https://info.ohio24.org/faq.html">FAQ</a>.</p>
+<p>Are you a Finisher? <span style="color: #e67e23;"><a href="mailto:finisher@ohio24.org">Submit your details</a></span> to get added to this page. See the <a href="https://info.ohio24.org/faq.html">FAQ</a>.</p>
 <h1>Finishers</h1>
 <table style="border-collapse: collapse; width: 100.142%; height: 174px;" border="1">
 <tbody>
@@ -94,6 +118,79 @@
         </content>
     </entry>
     <entry>
+        <title>Training</title>
+        <author>
+            <name>Ohio24</name>
+        </author>
+        <link href="https://info.ohio24.org/training.html"/>
+        <id>https://info.ohio24.org/training.html</id>
+        <media:content url="https://info.ohio24.org/media/posts/7/IMG_2186.jpeg" medium="image" />
+            <category term="preparation"/>
+
+        <updated>2024-01-19T10:54:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://info.ohio24.org/media/posts/7/IMG_2186.jpeg" alt="" />
+                    This page will [eventually] host recommend training info. For now, ask a question over on our Discord.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://info.ohio24.org/media/posts/7/IMG_2186.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>This page will [eventually] host recommend training info. For now, ask a question over on our <a href="https://discord.gg/smwDXumJq2" target="_blank" rel="noopener noreferrer">Discord</a>.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nutrition</title>
+        <author>
+            <name>Ohio24</name>
+        </author>
+        <link href="https://info.ohio24.org/nutrition.html"/>
+        <id>https://info.ohio24.org/nutrition.html</id>
+        <media:content url="https://info.ohio24.org/media/posts/6/IMG_2179.jpeg" medium="image" />
+            <category term="preparation"/>
+
+        <updated>2024-01-19T10:54:39-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://info.ohio24.org/media/posts/6/IMG_2179.jpeg" alt="" />
+                    This page will [eventually] host recommend nutrition info. For now, ask a question over on our Discord.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://info.ohio24.org/media/posts/6/IMG_2179.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>This page will [eventually] host recommend nutrition info. For now, ask a question over on our <a href="https://discord.gg/smwDXumJq2" target="_blank" rel="noopener noreferrer">Discord</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Equipment</title>
+        <author>
+            <name>Ohio24</name>
+        </author>
+        <link href="https://info.ohio24.org/equipment.html"/>
+        <id>https://info.ohio24.org/equipment.html</id>
+        <media:content url="https://info.ohio24.org/media/posts/5/IMG_2181.jpg" medium="image" />
+            <category term="preparation"/>
+
+        <updated>2024-01-19T10:56:54-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://info.ohio24.org/media/posts/5/IMG_2181.jpg" alt="" />
+                    This page will [eventually] host gear checks and packing lists. For now, ask a question over on our Discord.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://info.ohio24.org/media/posts/5/IMG_2181.jpg" class="type:primaryImage" alt="" /></p>
+                <p>This page will [eventually] host gear checks and packing lists. For now, ask a question over on our <a href="https://discord.gg/smwDXumJq2" target="_blank" rel="noopener noreferrer">Discord</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>FAQ</title>
         <author>
             <name>Ohio24</name>
@@ -103,11 +200,11 @@
         <media:content url="https://info.ohio24.org/media/posts/4/IMG_3305.jpg" medium="image" />
             <category term="about"/>
 
-        <updated>2024-01-14T19:35:40-05:00</updated>
+        <updated>2024-01-19T12:20:30-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/4/IMG_3305.jpg" alt="" />
-                    Tricycles? Handcycles? Recumbents? Any small vehicle that is suitable for use on a multi-use trail and solely human powered is permitted. Recumbents with fairings are generally not suitable for use on a multi-use trail. No motor vehicles are permitted. This is a self-supported challenge. You&hellip;
+                    24 Hours - Moving time or elapsed time? To qualify as a finisher you must complete the route in the span of a continuous 24 hour period. This is often referred to as total elapsed time which includes all stops and breaks. Effectively, once you&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -116,6 +213,7 @@
                 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
+<li><a href="#mcetoc_1hkhbpr3c20">24 Hours - Moving time or elapsed time?</a></li>
 <li><a href="#mcetoc_1gibcb8ct29g">Tricycles? Handcycles? Recumbents?</a></li>
 <li><a href="#mcetoc_1gibcb8ct29h">eBikes?</a></li>
 <li><a href="#mcetoc_1gibcb8ct29i">Safety and Support</a></li>
@@ -127,6 +225,8 @@
 <li><a href="#mcetoc_1gibcb8ct29n">Solo or Group</a></li>
 </ul>
 </div>
+<h3 id="mcetoc_1hkhbpr3c20">24 Hours - Moving time or elapsed time?</h3>
+<p>To qualify as a finisher you must complete the route in the span of a continuous 24 hour period. This is often referred to as total elapsed time which includes all stops and breaks. Effectively, once you start the clock does not stop ticking until your reach the finish. Activity analysis apps, like Strava, often feature "Moving Time" as the activity's "Time". Be sure to dig a bit deeper and look for the "Elapsed Time". Elapsed Time needs to be under 24 hours.</p>
 <h3 id="mcetoc_1gibcb8ct29g">Tricycles? Handcycles? Recumbents?</h3>
 <p>Any small vehicle that is suitable for use on a multi-use trail and solely human powered is permitted. Recumbents with fairings are generally not suitable for use on a multi-use trail.</p>
 <h3 id="mcetoc_1gibcb8ct29h">eBikes?</h3>
@@ -146,7 +246,7 @@
 <li>Ohio24 is point to point which makes the accomplishment sweeter, but also introduces logistical challenges that are often avoided by most randonnée routes.</li>
 </ol>
 <h3 id="mcetoc_1gibcb8ct29m">Preparation</h3>
-<p>See [forthcoming] posts on <a href="#non-existing-post-with-id-7">Training</a>, <a href="#non-existing-post-with-id-6">Nutrition</a>, and <a href="#non-existing-post-with-id-5">Equipment</a>.</p>
+<p>See [forthcoming] posts on <a href="https://info.ohio24.org/training.html">Training</a>, <a href="https://info.ohio24.org/nutrition.html">Nutrition</a>, and <a href="https://info.ohio24.org/equipment.html">Equipment</a>.</p>
 <h3 id="mcetoc_1gibcb8ct29n">Solo or Group</h3>
 <p>There are no restrictions on group riding. There is no additional recognition for riding solo.</p>
 <p> </p>
@@ -163,11 +263,11 @@
         <media:content url="https://info.ohio24.org/media/posts/3/IMG_3425.jpg" medium="image" />
             <category term="about"/>
 
-        <updated>2024-01-14T19:31:14-05:00</updated>
+        <updated>2024-01-19T12:04:40-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/3/IMG_3425.jpg" alt="" />
-                    Can you ride across Ohio in 24 hours or less? Yep, its that simple. To complete the challenge and become a "Finisher" you must; Check out The Route.
+                    Can you ride across Ohio in 24 hours or less? Yep, its that simple. To complete the challenge and become a "Finisher" you must; Check out The Route. Don't want to go alone? Check out the Solstice Ride.
                 ]]>
             </summary>
         <content type="html">
@@ -189,7 +289,7 @@
 <li>Have a recorded GNSS (GPS) activity log that provides digital proof of passage. See previous efforts over on the <a href="https://info.ohio24.org/finishers.html" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Finisher page</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">.</span></li>
 </ol>
 <p>Check out <a href="https://info.ohio24.org/ohio24-route.html">The Route</a>.</p>
-<p> </p>
+<p>Don't want to go alone? Check out the <a href="https://info.ohio24.org/solstice-event.html">Solstice Ride</a>.</p>
 <p> </p>
             ]]>
         </content>

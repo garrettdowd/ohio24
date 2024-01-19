@@ -11,11 +11,25 @@
     },
     "items": [
         {
+            "id": "https://info.ohio24.org/contact.html",
+            "url": "https://info.ohio24.org/contact.html",
+            "title": "Contact",
+            "summary": "Join the community on Discord to learn more, ask questions, and connect with other riders. Prefer steel frames and 90's tech? Send an email to hello@ohio24.org.",
+            "content_html": "<p>Join the <a href=\"https://discord.gg/smwDXumJq2\" target=\"_blank\" rel=\"noopener noreferrer\">community on Discord</a> to learn more, ask questions, and connect with other riders.</p>\n<p>Prefer steel frames and 90's tech? Send an email to <a href=\"mailto:hello@ohio24.org\">hello@ohio24.org</a>.</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Ohio24"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-19T11:46:26-05:00",
+            "date_modified": "2024-01-19T11:53:21-05:00"
+        },
+        {
             "id": "https://info.ohio24.org/solstice-event.html",
             "url": "https://info.ohio24.org/solstice-event.html",
             "title": "Solstice Event",
-            "summary": "Thursday, 20 June 2024. Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to solstice@ohio24.org For now click here to learn more about The Challenge.",
-            "content_html": "<p class=\"align-center\">Thursday, 20 June 2024.</p>\n<p>Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to <a href=\"mailto:solstice@ohio24.org\">solstice@ohio24.org</a> </p>\n<p>For now <a href=\"https://info.ohio24.org/challenge.html\">click here to learn more about The Challenge</a>.</p>",
+            "summary": "Thursday, 20 June 2024. Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to solstice@ohio24.org or message us on Discord. Click here to learn more about The Challenge.",
+            "content_html": "<p class=\"align-center\">Thursday, 20 June 2024.</p>\n<p>Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to <a href=\"mailto:solstice@ohio24.org\">solstice@ohio24.org</a> or <a href=\"https://discord.gg/UqCF5mMt\" target=\"_blank\" rel=\"noopener noreferrer\">message us on Discord</a>.</p>\n<p><a href=\"https://info.ohio24.org/challenge.html\">Click here to learn more about The Challenge</a>.</p>",
             "image": "https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg",
             "author": {
                 "name": "Ohio24"
@@ -23,14 +37,14 @@
             "tags": [
             ],
             "date_published": "2022-11-20T14:17:59-05:00",
-            "date_modified": "2024-01-19T10:23:45-05:00"
+            "date_modified": "2024-01-19T11:51:17-05:00"
         },
         {
             "id": "https://info.ohio24.org/finishers.html",
             "url": "https://info.ohio24.org/finishers.html",
             "title": "Finishers",
             "summary": "Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing The Challenge. Are you a Finisher? Submit your details to get added to this page. See the FAQ. Honorable Failures Name Date Activity Link Equipment Garrett 17 June 2023&hellip;",
-            "content_html": "<p>Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing <a href=\"https://info.ohio24.org/challenge.html\">The Challenge</a>.</p>\n<p>Are you a Finisher? <span style=\"color: #e67e23;\">Submit your details</span> to get added to this page. See the <a href=\"https://info.ohio24.org/faq.html\">FAQ</a>.</p>\n<h1>Finishers</h1>\n<table style=\"border-collapse: collapse; width: 100.142%; height: 174px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 17.2367%;\">Name</td>\n<td style=\"width: 22.5074%;\">Date</td>\n<td style=\"width: 20.3775%;\">Activity Link</td>\n<td style=\"width: 39.8795%;\">Equipment</td>\n</tr>\n<tr>\n<td style=\"width: 17.2367%;\"> </td>\n<td style=\"width: 22.5074%;\"> </td>\n<td style=\"width: 20.3775%;\"> </td>\n<td style=\"width: 39.8795%;\"> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<h2>Honorable Failures</h2>\n<table style=\"border-collapse: collapse; width: 100.142%; height: 174px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 17.2367%;\">Name</td>\n<td style=\"width: 22.5074%;\">Date</td>\n<td style=\"width: 20.3775%;\">Activity Link</td>\n<td style=\"width: 39.8795%;\">Equipment</td>\n</tr>\n<tr>\n<td style=\"width: 17.2367%;\">Garrett</td>\n<td style=\"width: 22.5074%;\">17 June 2023</td>\n<td style=\"width: 20.3775%;\"><a href=\"https://strava.app.link/ySGOLCOGmGb\" target=\"_blank\" rel=\"noopener noreferrer\">Strava</a></td>\n<td style=\"width: 39.8795%;\"><a href=\"#non-existing-post-with-id-15\"></a>Cervelo P5 + Scott Scale 940</td>\n</tr>\n</tbody>\n</table>",
+            "content_html": "<p>Below is the Finisher Hall of Fame. Currently, there are no records of anyone successfully completing <a href=\"https://info.ohio24.org/challenge.html\">The Challenge</a>.</p>\n<p>Are you a Finisher? <span style=\"color: #e67e23;\"><a href=\"mailto:finisher@ohio24.org\">Submit your details</a></span> to get added to this page. See the <a href=\"https://info.ohio24.org/faq.html\">FAQ</a>.</p>\n<h1>Finishers</h1>\n<table style=\"border-collapse: collapse; width: 100.142%; height: 174px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 17.2367%;\">Name</td>\n<td style=\"width: 22.5074%;\">Date</td>\n<td style=\"width: 20.3775%;\">Activity Link</td>\n<td style=\"width: 39.8795%;\">Equipment</td>\n</tr>\n<tr>\n<td style=\"width: 17.2367%;\"> </td>\n<td style=\"width: 22.5074%;\"> </td>\n<td style=\"width: 20.3775%;\"> </td>\n<td style=\"width: 39.8795%;\"> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<h2>Honorable Failures</h2>\n<table style=\"border-collapse: collapse; width: 100.142%; height: 174px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 17.2367%;\">Name</td>\n<td style=\"width: 22.5074%;\">Date</td>\n<td style=\"width: 20.3775%;\">Activity Link</td>\n<td style=\"width: 39.8795%;\">Equipment</td>\n</tr>\n<tr>\n<td style=\"width: 17.2367%;\">Garrett</td>\n<td style=\"width: 22.5074%;\">17 June 2023</td>\n<td style=\"width: 20.3775%;\"><a href=\"https://strava.app.link/ySGOLCOGmGb\" target=\"_blank\" rel=\"noopener noreferrer\">Strava</a></td>\n<td style=\"width: 39.8795%;\"><a href=\"#non-existing-post-with-id-15\"></a>Cervelo P5 + Scott Scale 940</td>\n</tr>\n</tbody>\n</table>",
             "image": "https://info.ohio24.org/media/posts/11/pexels-vlad-fonsark-4806508.jpg",
             "author": {
                 "name": "Ohio24"
@@ -38,14 +52,62 @@
             "tags": [
             ],
             "date_published": "2022-11-18T10:15:32-05:00",
-            "date_modified": "2024-01-14T20:07:35-05:00"
+            "date_modified": "2024-01-19T11:43:58-05:00"
+        },
+        {
+            "id": "https://info.ohio24.org/training.html",
+            "url": "https://info.ohio24.org/training.html",
+            "title": "Training",
+            "summary": "This page will [eventually] host recommend training info. For now, ask a question over on our Discord.",
+            "content_html": "<p>This page will [eventually] host recommend training info. For now, ask a question over on our <a href=\"https://discord.gg/smwDXumJq2\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a>.</p>\n<p> </p>",
+            "image": "https://info.ohio24.org/media/posts/7/IMG_2186.jpeg",
+            "author": {
+                "name": "Ohio24"
+            },
+            "tags": [
+                   "preparation"
+            ],
+            "date_published": "2022-10-27T19:34:47-04:00",
+            "date_modified": "2024-01-19T10:54:05-05:00"
+        },
+        {
+            "id": "https://info.ohio24.org/nutrition.html",
+            "url": "https://info.ohio24.org/nutrition.html",
+            "title": "Nutrition",
+            "summary": "This page will [eventually] host recommend nutrition info. For now, ask a question over on our Discord.",
+            "content_html": "<p>This page will [eventually] host recommend nutrition info. For now, ask a question over on our <a href=\"https://discord.gg/smwDXumJq2\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a>.</p>",
+            "image": "https://info.ohio24.org/media/posts/6/IMG_2179.jpeg",
+            "author": {
+                "name": "Ohio24"
+            },
+            "tags": [
+                   "preparation"
+            ],
+            "date_published": "2022-10-27T19:34:43-04:00",
+            "date_modified": "2024-01-19T10:54:39-05:00"
+        },
+        {
+            "id": "https://info.ohio24.org/equipment.html",
+            "url": "https://info.ohio24.org/equipment.html",
+            "title": "Equipment",
+            "summary": "This page will [eventually] host gear checks and packing lists. For now, ask a question over on our Discord.",
+            "content_html": "<p>This page will [eventually] host gear checks and packing lists. For now, ask a question over on our <a href=\"https://discord.gg/smwDXumJq2\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a>.</p>",
+            "image": "https://info.ohio24.org/media/posts/5/IMG_2181.jpg",
+            "author": {
+                "name": "Ohio24"
+            },
+            "tags": [
+                   "preparation"
+            ],
+            "date_published": "2022-10-27T19:34:30-04:00",
+            "date_modified": "2024-01-19T10:56:54-05:00"
         },
         {
             "id": "https://info.ohio24.org/faq.html",
             "url": "https://info.ohio24.org/faq.html",
             "title": "FAQ",
-            "summary": "Tricycles? Handcycles? Recumbents? Any small vehicle that is suitable for use on a multi-use trail and solely human powered is permitted. Recumbents with fairings are generally not suitable for use on a multi-use trail. No motor vehicles are permitted. This is a self-supported challenge. You&hellip;",
-            "content_html": "<div class=\"post__toc\">\n<h3>Table of Contents</h3>\n<ul>\n<li><a href=\"#mcetoc_1gibcb8ct29g\">Tricycles? Handcycles? Recumbents?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29h\">eBikes?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29i\">Safety and Support</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29l\">I have done [x] ride, do you think I can do this one?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29j\">Is this a race?</a></li>\n<li><a href=\"#mcetoc_1hk4uf45h15\">Is there a World Ultracycling Association (WUCA) Record associated with this route?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29k\">Is this a Flèche? Brevet? Permanent?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29m\">Preparation</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29n\">Solo or Group</a></li>\n</ul>\n</div>\n<h3 id=\"mcetoc_1gibcb8ct29g\">Tricycles? Handcycles? Recumbents?</h3>\n<p>Any small vehicle that is suitable for use on a multi-use trail and solely human powered is permitted. Recumbents with fairings are generally not suitable for use on a multi-use trail.</p>\n<h3 id=\"mcetoc_1gibcb8ct29h\">eBikes?</h3>\n<p>No motor vehicles are permitted.</p>\n<h3 id=\"mcetoc_1gibcb8ct29i\">Safety and Support</h3>\n<p>This is a self-supported challenge. You assume all of the non-trivial risk and difficulty that comes with it. </p>\n<h3 id=\"mcetoc_1gibcb8ct29l\">I have done [x] ride, do you think I can do this one?</h3>\n<p>If you need to ask then you likely don't have the experience required to safely attempt this challenge. Read some of the articles on Preparation.</p>\n<h3 id=\"mcetoc_1gibcb8ct29j\">Is this a race?</h3>\n<p>Short answer, no. The route primarily uses multi-use trails that are open to the public and not closed for the event. All riders are expected to be courteous to other trail users and follow any applicable laws. Do not exceed 15mph when slower trail users are present. If you want more of a challenge try completing the challenge on a fat bike or maybe a penny-farthing...</p>\n<h3 id=\"mcetoc_1hk4uf45h15\">Is there a World Ultracycling Association (WUCA) Record associated with this route?</h3>\n<p>No. Riders attempting Ohio24 are discouraged from completing the route as fast as possible. This is both to ensure safe use of trails and to encourage riders to pursue alternative forms of difficulty. If you are a professional athlete and can complete the route in 16 hours on a $10,000 time trial bike and custom aero-suit, consider challenging yourself (and gaining the respect of fellow riders) by completing the challenge on a beach cruiser.</p>\n<h3 id=\"mcetoc_1gibcb8ct29k\">Is this a Flèche? Brevet? Permanent?</h3>\n<p>For those familiar with <a href=\"https://en.wikipedia.org/wiki/Randonneuring\" target=\"_blank\" rel=\"noopener noreferrer\">randonneur</a> terminology, Ohio24 combines ideas from flèches, brevets, and permanents. However, there are no plans for Ohio24 to adhere to any ACP/<a href=\"https://rusa.org/pages/rba-procedures/rba-procedures/routes\" target=\"_blank\" rel=\"noopener noreferrer\">RUSA</a> classification or rules. Ohio24 differs from a typical randonnées in that;</p>\n<ol>\n<li>You must ride 500 kilometers in less than 24 hours. This is quite a bit faster than what is recommended by ACP/RUSA for routes of this length, more than 40% faster...</li>\n<li>Ohio24 is point to point which makes the accomplishment sweeter, but also introduces logistical challenges that are often avoided by most randonnée routes.</li>\n</ol>\n<h3 id=\"mcetoc_1gibcb8ct29m\">Preparation</h3>\n<p>See [forthcoming] posts on <a href=\"#non-existing-post-with-id-7\">Training</a>, <a href=\"#non-existing-post-with-id-6\">Nutrition</a>, and <a href=\"#non-existing-post-with-id-5\">Equipment</a>.</p>\n<h3 id=\"mcetoc_1gibcb8ct29n\">Solo or Group</h3>\n<p>There are no restrictions on group riding. There is no additional recognition for riding solo.</p>\n<p> </p>",
+            "summary": "24 Hours - Moving time or elapsed time? To qualify as a finisher you must complete the route in the span of a continuous 24 hour period. This is often referred to as total elapsed time which includes all stops and breaks. Effectively, once you&hellip;",
+            "content_html": "<div class=\"post__toc\">\n<h3>Table of Contents</h3>\n<ul>\n<li><a href=\"#mcetoc_1hkhbpr3c20\">24 Hours - Moving time or elapsed time?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29g\">Tricycles? Handcycles? Recumbents?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29h\">eBikes?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29i\">Safety and Support</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29l\">I have done [x] ride, do you think I can do this one?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29j\">Is this a race?</a></li>\n<li><a href=\"#mcetoc_1hk4uf45h15\">Is there a World Ultracycling Association (WUCA) Record associated with this route?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29k\">Is this a Flèche? Brevet? Permanent?</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29m\">Preparation</a></li>\n<li><a href=\"#mcetoc_1gibcb8ct29n\">Solo or Group</a></li>\n</ul>\n</div>\n<h3 id=\"mcetoc_1hkhbpr3c20\">24 Hours - Moving time or elapsed time?</h3>\n<p>To qualify as a finisher you must complete the route in the span of a continuous 24 hour period. This is often referred to as total elapsed time which includes all stops and breaks. Effectively, once you start the clock does not stop ticking until your reach the finish. Activity analysis apps, like Strava, often feature \"Moving Time\" as the activity's \"Time\". Be sure to dig a bit deeper and look for the \"Elapsed Time\". Elapsed Time needs to be under 24 hours.</p>\n<h3 id=\"mcetoc_1gibcb8ct29g\">Tricycles? Handcycles? Recumbents?</h3>\n<p>Any small vehicle that is suitable for use on a multi-use trail and solely human powered is permitted. Recumbents with fairings are generally not suitable for use on a multi-use trail.</p>\n<h3 id=\"mcetoc_1gibcb8ct29h\">eBikes?</h3>\n<p>No motor vehicles are permitted.</p>\n<h3 id=\"mcetoc_1gibcb8ct29i\">Safety and Support</h3>\n<p>This is a self-supported challenge. You assume all of the non-trivial risk and difficulty that comes with it. </p>\n<h3 id=\"mcetoc_1gibcb8ct29l\">I have done [x] ride, do you think I can do this one?</h3>\n<p>If you need to ask then you likely don't have the experience required to safely attempt this challenge. Read some of the articles on Preparation.</p>\n<h3 id=\"mcetoc_1gibcb8ct29j\">Is this a race?</h3>\n<p>Short answer, no. The route primarily uses multi-use trails that are open to the public and not closed for the event. All riders are expected to be courteous to other trail users and follow any applicable laws. Do not exceed 15mph when slower trail users are present. If you want more of a challenge try completing the challenge on a fat bike or maybe a penny-farthing...</p>\n<h3 id=\"mcetoc_1hk4uf45h15\">Is there a World Ultracycling Association (WUCA) Record associated with this route?</h3>\n<p>No. Riders attempting Ohio24 are discouraged from completing the route as fast as possible. This is both to ensure safe use of trails and to encourage riders to pursue alternative forms of difficulty. If you are a professional athlete and can complete the route in 16 hours on a $10,000 time trial bike and custom aero-suit, consider challenging yourself (and gaining the respect of fellow riders) by completing the challenge on a beach cruiser.</p>\n<h3 id=\"mcetoc_1gibcb8ct29k\">Is this a Flèche? Brevet? Permanent?</h3>\n<p>For those familiar with <a href=\"https://en.wikipedia.org/wiki/Randonneuring\" target=\"_blank\" rel=\"noopener noreferrer\">randonneur</a> terminology, Ohio24 combines ideas from flèches, brevets, and permanents. However, there are no plans for Ohio24 to adhere to any ACP/<a href=\"https://rusa.org/pages/rba-procedures/rba-procedures/routes\" target=\"_blank\" rel=\"noopener noreferrer\">RUSA</a> classification or rules. Ohio24 differs from a typical randonnées in that;</p>\n<ol>\n<li>You must ride 500 kilometers in less than 24 hours. This is quite a bit faster than what is recommended by ACP/RUSA for routes of this length, more than 40% faster...</li>\n<li>Ohio24 is point to point which makes the accomplishment sweeter, but also introduces logistical challenges that are often avoided by most randonnée routes.</li>\n</ol>\n<h3 id=\"mcetoc_1gibcb8ct29m\">Preparation</h3>\n<p>See [forthcoming] posts on <a href=\"https://info.ohio24.org/training.html\">Training</a>, <a href=\"https://info.ohio24.org/nutrition.html\">Nutrition</a>, and <a href=\"https://info.ohio24.org/equipment.html\">Equipment</a>.</p>\n<h3 id=\"mcetoc_1gibcb8ct29n\">Solo or Group</h3>\n<p>There are no restrictions on group riding. There is no additional recognition for riding solo.</p>\n<p> </p>",
             "image": "https://info.ohio24.org/media/posts/4/IMG_3305.jpg",
             "author": {
                 "name": "Ohio24"
@@ -54,14 +116,14 @@
                    "about"
             ],
             "date_published": "2022-10-27T19:33:50-04:00",
-            "date_modified": "2024-01-14T19:35:40-05:00"
+            "date_modified": "2024-01-19T12:20:30-05:00"
         },
         {
             "id": "https://info.ohio24.org/challenge.html",
             "url": "https://info.ohio24.org/challenge.html",
             "title": "The Challenge",
-            "summary": "Can you ride across Ohio in 24 hours or less? Yep, its that simple. To complete the challenge and become a \"Finisher\" you must; Check out The Route.",
-            "content_html": "<p>Can you ride across Ohio in 24 hours or less? Yep, its that simple.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://info.ohio24.org/media/posts/3/logo-l-a.gif\" alt=\"\" width=\"368\" height=\"368\"></figure>\n<h2>Finishing Criteria</h2>\n<p>To complete the challenge and become a \"Finisher\" you must;</p>\n<ol>\n<li>Travel from the <em>start point</em> to the <em>end point</em> of <a href=\"https://info.ohio24.org/ohio24-route.html\">the route</a>\n<ol>\n<li>Pass through designated control points and generally adhere to the \"official\" route unless safety requires otherwise.</li>\n<li>Travel at least 500 kilometers</li>\n</ol>\n</li>\n<li>Complete the route (as specified above) in the span of a continuous 24 hour period.</li>\n<li>Use a human powered vehicle that is legal and safe to use on multi-use paths.</li>\n<li>Have a recorded GNSS (GPS) activity log that provides digital proof of passage. See previous efforts over on the <a href=\"https://info.ohio24.org/finishers.html\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Finisher page</a><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">.</span></li>\n</ol>\n<p>Check out <a href=\"https://info.ohio24.org/ohio24-route.html\">The Route</a>.</p>\n<p> </p>\n<p> </p>",
+            "summary": "Can you ride across Ohio in 24 hours or less? Yep, its that simple. To complete the challenge and become a \"Finisher\" you must; Check out The Route. Don't want to go alone? Check out the Solstice Ride.",
+            "content_html": "<p>Can you ride across Ohio in 24 hours or less? Yep, its that simple.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://info.ohio24.org/media/posts/3/logo-l-a.gif\" alt=\"\" width=\"368\" height=\"368\"></figure>\n<h2>Finishing Criteria</h2>\n<p>To complete the challenge and become a \"Finisher\" you must;</p>\n<ol>\n<li>Travel from the <em>start point</em> to the <em>end point</em> of <a href=\"https://info.ohio24.org/ohio24-route.html\">the route</a>\n<ol>\n<li>Pass through designated control points and generally adhere to the \"official\" route unless safety requires otherwise.</li>\n<li>Travel at least 500 kilometers</li>\n</ol>\n</li>\n<li>Complete the route (as specified above) in the span of a continuous 24 hour period.</li>\n<li>Use a human powered vehicle that is legal and safe to use on multi-use paths.</li>\n<li>Have a recorded GNSS (GPS) activity log that provides digital proof of passage. See previous efforts over on the <a href=\"https://info.ohio24.org/finishers.html\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Finisher page</a><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">.</span></li>\n</ol>\n<p>Check out <a href=\"https://info.ohio24.org/ohio24-route.html\">The Route</a>.</p>\n<p>Don't want to go alone? Check out the <a href=\"https://info.ohio24.org/solstice-event.html\">Solstice Ride</a>.</p>\n<p> </p>",
             "image": "https://info.ohio24.org/media/posts/3/IMG_3425.jpg",
             "author": {
                 "name": "Ohio24"
@@ -70,7 +132,7 @@
                    "about"
             ],
             "date_published": "2022-10-27T19:31:34-04:00",
-            "date_modified": "2024-01-14T19:31:14-05:00"
+            "date_modified": "2024-01-19T12:04:40-05:00"
         },
         {
             "id": "https://info.ohio24.org/ohio24-route.html",
