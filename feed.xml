@@ -3,7 +3,7 @@
     <title>Ohio24</title>
     <link href="https://info.ohio24.org/feed.xml" rel="self" />
     <link href="https://info.ohio24.org" />
-    <updated>2025-06-18T21:35:58-04:00</updated>
+    <updated>2025-06-19T14:30:28-04:00</updated>
     <author>
         <name>Ohio24</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://info.ohio24.org/mike-kaldy.html</id>
         <media:content url="https://info.ohio24.org/media/posts/17/kBeRoRmnqWtppEd3dKmwAW6uzY7RhkAxdoN2VLFtkgk-1536x2048.jpg" medium="image" />
 
-        <updated>2025-06-18T20:48:12-04:00</updated>
+        <updated>2025-06-18T20:42:55-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/17/kBeRoRmnqWtppEd3dKmwAW6uzY7RhkAxdoN2VLFtkgk-1536x2048.jpg" alt="" />
@@ -68,7 +68,7 @@
         <id>https://info.ohio24.org/contact.html</id>
         <media:content url="https://info.ohio24.org/media/posts/16/Gemini_Generated_Image_4m2lat4m2lat4m2l.png" medium="image" />
 
-        <updated>2025-06-18T21:35:58-04:00</updated>
+        <updated>2024-01-19T11:46:26-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/16/Gemini_Generated_Image_4m2lat4m2lat4m2l.png" alt="" />
@@ -95,7 +95,7 @@
         <id>https://info.ohio24.org/ohio.html</id>
         <media:content url="https://info.ohio24.org/media/posts/14/Gemini_Generated_Image_knlv9dknlv9dknlv.png" medium="image" />
 
-        <updated>2025-06-18T21:11:25-04:00</updated>
+        <updated>2024-01-14T17:45:53-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/14/Gemini_Generated_Image_knlv9dknlv9dknlv.png" alt="" />
@@ -121,7 +121,7 @@
         <id>https://info.ohio24.org/solstice-event.html</id>
         <media:content url="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" medium="image" />
 
-        <updated>2024-01-19T11:51:17-05:00</updated>
+        <updated>2022-11-20T14:17:59-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" alt="" />
@@ -146,66 +146,73 @@
         <id>https://info.ohio24.org/finishers.html</id>
         <media:content url="https://info.ohio24.org/media/posts/11/ChatGPT-Image-Jun-18-2025-at-09_08_47-PM.png" medium="image" />
 
-        <updated>2025-06-18T21:26:17-04:00</updated>
+        <updated>2022-11-18T10:15:32-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/11/ChatGPT-Image-Jun-18-2025-at-09_08_47-PM.png" alt="" />
-                     Are you a Finisher? Submit your details to get added to this page. See the FAQ. Honorable Failures Name Date Activity Link Distance Equipment Garrett 17 June 2023 Strava 521km Cervelo P5 + Scott Scale 940
+                    🏅Finishers🏅 Name Date Activity Link Distance Equipment Interview Mike Kaldy 12 July 2024 Strava 522km Specialized Crux Read it here Joe Lawhorn 17 May 2025 Strava 520km Are you a Finisher? Submit your details to get added to this page. See the FAQ.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://info.ohio24.org/media/posts/11/ChatGPT-Image-Jun-18-2025-at-09_08_47-PM.png" class="type:primaryImage" alt="" /></p>
-                <p> Are you a Finisher? <span style="color: #e67e23;"><a href="mailto:finisher@ohio24.org">Submit your details</a></span> to get added to this page. See the <a href="https://info.ohio24.org/faq.html">FAQ</a>.</p>
-<h2>Finishers</h2>
-<table style="border-collapse: collapse; width: 100.142%; height: 174px; border-style: solid;" border="1">
+                <h2>🏅Finishers🏅</h2>
+<div class="table-scroll">
+<table class="hall-of-fame" style="border-collapse: collapse; width: 108.547%; height: 174px; border-style: solid;" border="1">
 <tbody>
 <tr>
-<td style="width: 16.5244%;">Name</td>
-<td style="width: 19.6583%;">Date</td>
-<td style="width: 18.5187%;">Activity Link</td>
-<td style="width: 18.6612%;">Distance</td>
-<td style="width: 17.9489%;">Equipment</td>
-<td style="width: 8.68956%;">Interview</td>
+<td style="width: 15.9001%;"><strong>Name</strong></td>
+<td style="width: 16.82%;"><strong>Date</strong></td>
+<td style="width: 13.4034%;"><strong>Activity Link</strong></td>
+<td style="width: 12.8883%;"><strong>Distance</strong></td>
+<td style="width: 26.0079%;"><strong>Equipment</strong></td>
+<td style="width: 14.9803%;"><strong>Interview</strong></td>
 </tr>
 <tr>
-<td style="width: 16.5244%;">Mike Kaldy</td>
-<td style="width: 19.6583%;">12 July 2024</td>
-<td style="width: 18.5187%;"><a href="https://strava.app.link/tMp8IxcsjUb" target="_blank" rel="noopener noreferrer">Strava</a></td>
-<td style="width: 18.6612%;">522km</td>
-<td style="width: 17.9489%;">Specialized Crux</td>
-<td style="width: 8.68956%;"><a href="https://info.ohio24.org/mike-kaldy.html">Read it here</a></td>
+<td style="width: 15.9001%;">Mike Kaldy</td>
+<td style="width: 16.82%;">12 July 2024</td>
+<td style="width: 13.4034%;"><a href="https://strava.app.link/tMp8IxcsjUb" target="_blank" rel="noopener noreferrer">Strava</a></td>
+<td style="width: 12.8883%;">522km</td>
+<td style="width: 26.0079%;">Specialized Crux</td>
+<td style="width: 14.9803%;"><a href="https://info.ohio24.org/mike-kaldy.html">Read it here</a></td>
 </tr>
 <tr>
-<td style="width: 16.5244%;">Joe Lawhorn</td>
-<td style="width: 19.6583%;">17 May 2025</td>
-<td style="width: 18.5187%;"><a href="https://strava.app.link/T9kEsCtsjUb">Strava</a></td>
-<td style="width: 18.6612%;">520km</td>
-<td style="width: 17.9489%;"> </td>
-<td style="width: 8.68956%;"> </td>
+<td style="width: 15.9001%;">Joe Lawhorn</td>
+<td style="width: 16.82%;">17 May 2025</td>
+<td style="width: 13.4034%;"><a href="https://strava.app.link/T9kEsCtsjUb">Strava</a></td>
+<td style="width: 12.8883%;">520km</td>
+<td style="width: 26.0079%;"> </td>
+<td style="width: 14.9803%;"> </td>
 </tr>
 </tbody>
 </table>
+</div>
 <p> </p>
 <h2>Honorable Failures</h2>
-<table style="border-collapse: collapse; width: 100.142%; height: 174px;" border="1">
+<div class="table-scroll">
+<table class="honor-table" style="border-collapse: collapse; width: 109.259%; height: 174px;" border="1">
 <tbody>
 <tr>
-<td style="width: 17.2367%;">Name</td>
-<td style="width: 22.5074%;">Date</td>
-<td style="width: 20.3706%;">Activity Link</td>
-<td style="width: 19.9432%;">Distance</td>
-<td style="width: 19.9432%;">Equipment</td>
+<td style="width: 15.1436%;"><strong>Name</strong></td>
+<td style="width: 16.7102%;"><strong>Date</strong></td>
+<td style="width: 12.0104%;"><strong>Activity Link</strong></td>
+<td style="width: 13.577%;"><strong>Distance</strong></td>
+<td style="width: 21.8075%;"><strong>Equipment</strong></td>
+<td style="width: 20.7512%;"><strong>Excuses</strong></td>
 </tr>
 <tr>
-<td style="width: 17.2367%;">Garrett</td>
-<td style="width: 22.5074%;">17 June 2023</td>
-<td style="width: 20.3706%;"><a href="https://strava.app.link/ySGOLCOGmGb" target="_blank" rel="noopener noreferrer">Strava</a></td>
-<td style="width: 19.9432%;">521km</td>
-<td style="width: 19.9432%;"><a href="#non-existing-post-with-id-15"></a>Cervelo P5 + Scott Scale 940</td>
+<td style="width: 15.1436%;">Garrett D</td>
+<td style="width: 16.7102%;">17 June 2023</td>
+<td style="width: 12.0104%;"><a href="https://strava.app.link/ySGOLCOGmGb" target="_blank" rel="noopener noreferrer">Strava</a></td>
+<td style="width: 13.577%;">521km</td>
+<td style="width: 21.8075%;"><a href="#non-existing-post-with-id-15"></a>Cervelo P5 + Scott Scale 940</td>
+<td style="width: 20.7512%;">Too long of a break (nap) in Columbus</td>
 </tr>
 </tbody>
 </table>
+</div>
+<p> </p>
+<p>Are you a Finisher? <span style="color: #e67e23;"><a href="mailto:finisher@ohio24.org">Submit your details</a></span> to get added to this page. See the <a href="https://info.ohio24.org/faq.html">FAQ</a>.</p>
             ]]>
         </content>
     </entry>
@@ -219,7 +226,7 @@
         <media:content url="https://info.ohio24.org/media/posts/7/IMG_2186.jpeg" medium="image" />
             <category term="preparation"/>
 
-        <updated>2024-01-19T10:54:05-05:00</updated>
+        <updated>2022-10-27T19:34:47-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/7/IMG_2186.jpeg" alt="" />
@@ -244,7 +251,7 @@
         <media:content url="https://info.ohio24.org/media/posts/6/IMG_2179.jpeg" medium="image" />
             <category term="preparation"/>
 
-        <updated>2024-01-19T10:54:39-05:00</updated>
+        <updated>2022-10-27T19:34:43-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/6/IMG_2179.jpeg" alt="" />
@@ -268,7 +275,7 @@
         <media:content url="https://info.ohio24.org/media/posts/5/IMG_2181.jpg" medium="image" />
             <category term="preparation"/>
 
-        <updated>2024-01-19T10:56:54-05:00</updated>
+        <updated>2022-10-27T19:34:30-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/5/IMG_2181.jpg" alt="" />
@@ -292,7 +299,7 @@
         <media:content url="https://info.ohio24.org/media/posts/4/IMG_3305.jpg" medium="image" />
             <category term="about"/>
 
-        <updated>2025-06-18T20:33:20-04:00</updated>
+        <updated>2022-10-27T19:33:50-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/4/IMG_3305.jpg" alt="" />
@@ -355,7 +362,7 @@
         <media:content url="https://info.ohio24.org/media/posts/3/Gemini_Generated_Image_gg2m6qgg2m6qgg2m.png" medium="image" />
             <category term="about"/>
 
-        <updated>2025-06-18T21:17:29-04:00</updated>
+        <updated>2022-10-27T19:31:34-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/3/Gemini_Generated_Image_gg2m6qgg2m6qgg2m.png" alt="" />
