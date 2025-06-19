@@ -153,8 +153,8 @@
             "id": "https://info.ohio24.org/challenge.html",
             "url": "https://info.ohio24.org/challenge.html",
             "title": "The Challenge",
-            "summary": "Can you ride across Ohio in 24 hours or less? Yep, its that simple. To complete the challenge and become a \"Finisher\" you must; Check out The Route. Don't want to go alone? Check out the Solstice Ride.",
-            "content_html": "<p>Can you ride across Ohio in 24 hours or less? Yep, its that simple.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://info.ohio24.org/media/posts/3/logo-l-a.gif\" alt=\"\" width=\"368\" height=\"368\"></figure>\n<h2>Finishing Criteria</h2>\n<p>To complete the challenge and become a \"Finisher\" you must;</p>\n<ol>\n<li>Travel from the <em>start point</em> to the <em>end point</em> of <a href=\"https://info.ohio24.org/ohio24-route.html\">the route</a>\n<ol>\n<li>Pass through designated control points and generally adhere to the \"official\" route unless safety requires otherwise.</li>\n<li>Travel at least 500 kilometers</li>\n</ol>\n</li>\n<li>Complete the route (as specified above) in the span of a continuous 24 hour period.</li>\n<li>Use a human powered vehicle that is legal and safe to use on multi-use paths.</li>\n<li>Have a recorded GNSS (GPS) activity log that provides digital proof of passage. See previous efforts over on the <a href=\"https://info.ohio24.org/finishers.html\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Finisher page</a><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">.</span></li>\n</ol>\n<p>Check out <a href=\"https://info.ohio24.org/ohio24-route.html\">The Route</a>.</p>\n<p>Don't want to go alone? Check out the <a href=\"https://info.ohio24.org/solstice-event.html\">Solstice Ride</a>.</p>\n<p> </p>",
+            "summary": "Can you ride across Ohio in 24 hours or less? Yep, its that simple. To complete the challenge and become a Finisher you must: Check out The Route. Don't want to go alone? Check out the Solstice Ride.",
+            "content_html": "<div class=\"hero-intro\">\n<p>Can you ride across Ohio in 24 hours or less?</p>\n<p>Yep, its that simple.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://info.ohio24.org/media/posts/3/logo-l-a.gif\" alt=\"\" width=\"368\" height=\"368\"></figure>\n</div>\n<h2 class=\"section-title\">Finishing Criteria</h2>\n<p>To complete the challenge and become a <strong>Finisher</strong> you must:</p>\n<ol class=\"finisher-list\">\n<li>Travel from the <em>start point</em> to the <em>end point</em> of <a href=\"https://info.ohio24.org/ohio24-route.html\">The Route</a>\n<ol>\n<li>✅ Pass through designated control points</li>\n<li>🚴 Travel at least 500 kilometers</li>\n</ol>\n</li>\n<li>🕐 Complete the route in a continuous 24 hour period.</li>\n<li>💪 Use a human-powered vehicle legal on multi-use paths.</li>\n<li>📍 Have a GPS log that shows proof of passage. See others on the <a href=\"https://info.ohio24.org/finishers.html\">Finisher page</a>.</li>\n</ol>\n<p> </p>\n<p class=\"align-center\">Check out <a href=\"https://info.ohio24.org/ohio24-route.html\">The Route</a>.<br>Don't want to go alone? Check out the <a href=\"https://info.ohio24.org/solstice-event.html\">Solstice Ride</a>.</p>",
             "image": "https://info.ohio24.org/media/posts/3/Gemini_Generated_Image_gg2m6qgg2m6qgg2m.png",
             "author": {
                 "name": "Ohio24"
@@ -163,7 +163,7 @@
                    "about"
             ],
             "date_published": "2022-10-27T19:31:34-04:00",
-            "date_modified": "2025-06-18T21:17:29-04:00"
+            "date_modified": "2025-06-19T14:46:22-04:00"
         }
     ]
 }
