@@ -3,7 +3,7 @@
     <title>Ohio24</title>
     <link href="https://info.ohio24.org/feed.xml" rel="self" />
     <link href="https://info.ohio24.org" />
-    <updated>2025-06-19T14:46:22-04:00</updated>
+    <updated>2025-06-19T14:53:23-04:00</updated>
     <author>
         <name>Ohio24</name>
     </author>
@@ -94,6 +94,7 @@
         <link href="https://info.ohio24.org/ohio.html"/>
         <id>https://info.ohio24.org/ohio.html</id>
         <media:content url="https://info.ohio24.org/media/posts/14/Gemini_Generated_Image_knlv9dknlv9dknlv.png" medium="image" />
+            <category term="about"/>
 
         <updated>2024-01-14T17:45:53-05:00</updated>
             <summary>
@@ -120,19 +121,19 @@
         <link href="https://info.ohio24.org/solstice-event.html"/>
         <id>https://info.ohio24.org/solstice-event.html</id>
         <media:content url="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" medium="image" />
+            <category term="about"/>
 
         <updated>2022-11-20T14:17:59-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" alt="" />
-                    Thursday, 20 June 2024. Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to solstice@ohio24.org or message us on Discord. Click here to learn more about The Challenge.
+                    Are you interested in tackling this challenge with others on the longest day of the year in 2025? Let us know by sending a quick message to solstice@ohio24.org or message us on Discord. Click here to learn more about The Challenge.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://info.ohio24.org/media/posts/13/IMG_3289-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-center">Thursday, 20 June 2024.</p>
-<p>Are you interested in tackling this challenge with others on the longest day of the year in 2024? Let us know by sending a quick message to <a href="mailto:solstice@ohio24.org">solstice@ohio24.org</a> or <a href="https://discord.gg/UqCF5mMt" target="_blank" rel="noopener noreferrer">message us on Discord</a>.</p>
+                <p>Are you interested in tackling this challenge with others on the longest day of the year in 2025? Let us know by sending a quick message to <a href="mailto:solstice@ohio24.org">solstice@ohio24.org</a> or <a href="https://discord.gg/UqCF5mMt" target="_blank" rel="noopener noreferrer">message us on Discord</a>.</p>
 <p><a href="https://info.ohio24.org/challenge.html">Click here to learn more about The Challenge</a>.</p>
             ]]>
         </content>
